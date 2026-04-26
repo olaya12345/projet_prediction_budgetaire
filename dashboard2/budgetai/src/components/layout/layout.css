@@ -1,0 +1,140 @@
+.app-layout {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  background: var(--bg-base);
+}
+
+.sidebar {
+  border-right: 1px solid var(--border);
+  background: var(--bg-surface);
+  padding: 20px 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.logo-mini {
+  margin: 0 8px 14px;
+  color: var(--gold);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.sidebar-nav {
+  display: grid;
+  gap: 6px;
+}
+
+.nav-link,
+.logout-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  color: var(--text-secondary);
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 10px;
+  background: transparent;
+  font-family: inherit;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.nav-link:hover,
+.logout-btn:hover {
+  color: var(--text-primary);
+  background: var(--bg-hover);
+}
+
+.nav-link.active {
+  color: var(--gold-light);
+  background: var(--gold-dim);
+  border-color: var(--border-strong);
+}
+
+.sidebar-footer {
+  display: grid;
+  gap: 8px;
+}
+
+.user-card {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-strong);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.user-card p {
+  margin: 0;
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.user-card small {
+  color: var(--text-muted);
+}
+
+.app-main {
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  border-bottom: 1px solid var(--border);
+  background: rgba(17, 24, 39, 0.85);
+  backdrop-filter: blur(4px);
+  position: sticky;
+  top: 0;
+}
+
+.topbar-title {
+  margin: 0;
+  font-size: 18px;
+}
+
+.topbar-sub {
+  margin: 2px 0 0;
+  color: var(--text-muted);
+  font-size: 12px;
+}
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.api-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  color: var(--success);
+  background: var(--success-dim);
+  font-size: 12px;
+}
+
+.icon-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  border: 1px solid var(--border-strong);
+  background: var(--bg-elevated);
+  color: var(--text-primary);
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+
+.app-content {
+  padding: 20px;
+}

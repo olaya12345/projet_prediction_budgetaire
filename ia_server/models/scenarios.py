@@ -5,8 +5,9 @@
 
 import pandas as pd
 from models.smart_average_model import calculer_budget_previsionnel
+import os
 
-def calculer_scenarios(year_target=2026, variation_pct=10):
+def calculer_scenarios(year_target, variation_pct=10):
     """
     Calcule 3 scénarios budgétaires :
     - Réaliste : prédictions normales
@@ -27,7 +28,9 @@ def calculer_scenarios(year_target=2026, variation_pct=10):
     print(f"{'='*70}")
     
     # Liste des comptes (détection automatique)
-    data_path = "../data/data_for_ai.csv"
+    current_file = os.path.abspath(__file__)
+    project_root = os.path.dirname(os.path.dirname(os.path.dirname(current_file)))
+    data_path = os.path.join(project_root, "data", "data_for_ai.csv")
     df = pd.read_csv(data_path)
     tous_les_comptes = df['num_compte'].unique().tolist()
     
@@ -54,8 +57,8 @@ def calculer_scenarios(year_target=2026, variation_pct=10):
     for compte in tous_les_comptes:
         try: 
              result = calculer_budget_previsionnel(compte, year_target=year_target)
-             if "error" not in result:
-                 print(f"     ⚠️  Erreur {compte} : {result['error']}")
+             if "error" in result:
+                 print(f"     [!] Erreur {compte} : {result['error']}")
                  continue
              
              realiste['comptes'][compte] = result['budget_annuel']
@@ -180,7 +183,10 @@ def calculer_scenarios(year_target=2026, variation_pct=10):
 # ─── TEST DIRECT ───────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    resultats = calculer_scenarios(year_target=2026, variation_pct=10)
+    print(f"\nCalcul des scenarios budgetaires")
+    annee_choisie = int(input("entrez l'année cible : ") or 10)
+    variation = int(input("entrez la variation en % (défaut 10) : "))
+    resultats = calculer_scenarios(year_target=annee_choisie, variation_pct=variation)
     
     print("\n✅ Scénarios calculés avec succès !")
     print(f"\nRésumé :")

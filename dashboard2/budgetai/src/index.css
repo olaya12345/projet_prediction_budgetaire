@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&family=Playfair+Display:wght@600;700&display=swap");
+
+:root {
+  --bg-base: #0b1120;
+  --bg-surface: #111827;
+  --bg-elevated: #1a2332;
+  --bg-hover: #243040;
+  --bg-active: #2e3d52;
+
+  --gold: #e2a84b;
+  --gold-light: #f0c97a;
+  --gold-dim: rgba(226, 168, 75, 0.12);
+
+  --teal: #2dd4bf;
+  --teal-dim: rgba(45, 212, 191, 0.1);
+
+  --success: #4ade80;
+  --success-dim: rgba(74, 222, 128, 0.1);
+  --danger: #f87171;
+  --danger-dim: rgba(248, 113, 113, 0.1);
+  --warning: #fbbf24;
+  --warning-dim: rgba(251, 191, 36, 0.1);
+  --info: #60a5fa;
+
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+
+  --border: rgba(255, 255, 255, 0.07);
+  --border-strong: rgba(255, 255, 255, 0.12);
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+
+  --font-sans: "DM Sans", system-ui, sans-serif;
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-mono: "DM Mono", ui-monospace, monospace;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  color: var(--text-primary);
+  background-color: var(--bg-base);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: inherit;
+}

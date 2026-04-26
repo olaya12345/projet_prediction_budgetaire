@@ -1,0 +1,40 @@
+.login-page {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+}
+
+.login-card {
+  width: min(560px, 100%);
+  display: grid;
+  gap: 16px;
+}
+
+.login-form {
+  display: grid;
+  gap: 12px;
+}
+
+.password-wrap {
+  position: relative;
+}
+
+.password-toggle {
+  position: absolute;
+  right: 10px;
+  top: 35px;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--text-secondary);
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+
+.password-toggle:hover {
+  background: var(--bg-hover);
+}

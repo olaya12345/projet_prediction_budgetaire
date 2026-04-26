@@ -1,0 +1,3116 @@
+{
+  "year": 2030,
+  "budget_global": {
+    "depenses_mensuelles": [
+      1106752.14,
+      989174.23,
+      1075994.7,
+      967214.1000000001,
+      1071586.31,
+      964486.0000000001,
+      826349.8,
+      742704.77,
+      1180301.9400000002,
+      1185818.1600000001,
+      1060638.47,
+      1273622.8699999999
+    ],
+    "produits_mensuels": [
+      1108278.24,
+      920329.41,
+      1130260.2599999998,
+      1214249.3900000001,
+      1278660.52,
+      767453.3700000001,
+      839352.86,
+      908056.74,
+      1274810.25,
+      1153605.5899999999,
+      1234025.93,
+      1142280.1
+    ],
+    "net_mensuel": [
+      1526.1000000001586,
+      -68844.82000000004,
+      54265.55999999993,
+      247035.28999999992,
+      207074.21000000005,
+      -197032.63000000006,
+      13003.059999999901,
+      165351.97,
+      94508.30999999987,
+      -32212.57000000026,
+      173387.46000000005,
+      -131342.76999999976
+    ],
+    "depenses_annuel": 12444643.490000002,
+    "produits_annuel": 12971362.66,
+    "net_annuel": 526719.1699999977
+  },
+  "stats": {
+    "comptes_traites": 15,
+    "comptes_erreurs": 0
+  },
+  "comptes": {
+    "COMPTE_6011": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 1596519.18,
+        "credit": 0.0,
+        "total": 1596519.18
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 157704.69,
+          "budget_credit": 0.0,
+          "budget_total": 157704.69,
+          "tendance_pct": 5.78,
+          "intervalle_debit": "[131,664 - 183,745]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 109198.87,
+          "budget_credit": 0.0,
+          "budget_total": 109198.87,
+          "tendance_pct": 1.37,
+          "intervalle_debit": "[94,966 - 123,432]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 112702.84,
+          "budget_credit": 0.0,
+          "budget_total": 112702.84,
+          "tendance_pct": 0.31,
+          "intervalle_debit": "[99,272 - 126,133]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 131457.53,
+          "budget_credit": 0.0,
+          "budget_total": 131457.53,
+          "tendance_pct": 5.73,
+          "intervalle_debit": "[111,218 - 151,697]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 107290.54,
+          "budget_credit": 0.0,
+          "budget_total": 107290.54,
+          "tendance_pct": 1.26,
+          "intervalle_debit": "[101,026 - 113,555]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 144651.0,
+          "budget_credit": 0.0,
+          "budget_total": 144651.0,
+          "tendance_pct": 7.85,
+          "intervalle_debit": "[116,679 - 172,623]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 109132.69,
+          "budget_credit": 0.0,
+          "budget_total": 109132.69,
+          "tendance_pct": 3.72,
+          "intervalle_debit": "[88,835 - 129,431]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 94885.44,
+          "budget_credit": 0.0,
+          "budget_total": 94885.44,
+          "tendance_pct": 2.72,
+          "intervalle_debit": "[75,876 - 113,895]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 156020.18,
+          "budget_credit": 0.0,
+          "budget_total": 156020.18,
+          "tendance_pct": 6.69,
+          "intervalle_debit": "[125,706 - 186,334]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 181793.42,
+          "budget_credit": 0.0,
+          "budget_total": 181793.42,
+          "tendance_pct": 8.6,
+          "intervalle_debit": "[149,061 - 214,526]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 158622.71,
+          "budget_credit": 0.0,
+          "budget_total": 158622.71,
+          "tendance_pct": 6.27,
+          "intervalle_debit": "[137,382 - 179,863]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 133059.27,
+          "budget_credit": 0.0,
+          "budget_total": 133059.27,
+          "tendance_pct": 2.27,
+          "intervalle_debit": "[119,301 - 146,817]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6141": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 805501.34,
+        "credit": 0.0,
+        "total": 805501.34
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 85766.99,
+          "budget_credit": 0.0,
+          "budget_total": 85766.99,
+          "tendance_pct": 4.47,
+          "intervalle_debit": "[71,401 - 100,133]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 72102.02,
+          "budget_credit": 0.0,
+          "budget_total": 72102.02,
+          "tendance_pct": 5.99,
+          "intervalle_debit": "[62,364 - 81,840]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 57428.6,
+          "budget_credit": 0.0,
+          "budget_total": 57428.6,
+          "tendance_pct": -1.56,
+          "intervalle_debit": "[51,446 - 63,412]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 73430.33,
+          "budget_credit": 0.0,
+          "budget_total": 73430.33,
+          "tendance_pct": 5.43,
+          "intervalle_debit": "[59,893 - 86,968]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 73397.29,
+          "budget_credit": 0.0,
+          "budget_total": 73397.29,
+          "tendance_pct": 4.06,
+          "intervalle_debit": "[63,016 - 83,779]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 58904.38,
+          "budget_credit": 0.0,
+          "budget_total": 58904.38,
+          "tendance_pct": 1.92,
+          "intervalle_debit": "[52,624 - 65,185]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 47865.65,
+          "budget_credit": 0.0,
+          "budget_total": 47865.65,
+          "tendance_pct": 0.17,
+          "intervalle_debit": "[39,057 - 56,674]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 48297.76,
+          "budget_credit": 0.0,
+          "budget_total": 48297.76,
+          "tendance_pct": 0.21,
+          "intervalle_debit": "[43,334 - 53,261]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 61277.94,
+          "budget_credit": 0.0,
+          "budget_total": 61277.94,
+          "tendance_pct": 0.66,
+          "intervalle_debit": "[52,151 - 70,405]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 78560.55,
+          "budget_credit": 0.0,
+          "budget_total": 78560.55,
+          "tendance_pct": 3.51,
+          "intervalle_debit": "[69,585 - 87,537]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 73935.87,
+          "budget_credit": 0.0,
+          "budget_total": 73935.87,
+          "tendance_pct": 3.96,
+          "intervalle_debit": "[60,475 - 87,397]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 74533.96,
+          "budget_credit": 0.0,
+          "budget_total": 74533.96,
+          "tendance_pct": 2.99,
+          "intervalle_debit": "[65,287 - 83,781]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6161": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 223670.2,
+        "credit": 0.0,
+        "total": 223670.2
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 18242.84,
+          "budget_credit": 0.0,
+          "budget_total": 18242.84,
+          "tendance_pct": 0.23,
+          "intervalle_debit": "[16,080 - 20,406]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 19134.82,
+          "budget_credit": 0.0,
+          "budget_total": 19134.82,
+          "tendance_pct": 4.78,
+          "intervalle_debit": "[16,612 - 21,658]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 21228.29,
+          "budget_credit": 0.0,
+          "budget_total": 21228.29,
+          "tendance_pct": 4.13,
+          "intervalle_debit": "[18,318 - 24,139]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 16171.51,
+          "budget_credit": 0.0,
+          "budget_total": 16171.51,
+          "tendance_pct": -0.4,
+          "intervalle_debit": "[13,189 - 19,154]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 13387.72,
+          "budget_credit": 0.0,
+          "budget_total": 13387.72,
+          "tendance_pct": -3.6,
+          "intervalle_debit": "[11,659 - 15,116]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 15551.42,
+          "budget_credit": 0.0,
+          "budget_total": 15551.42,
+          "tendance_pct": 0.43,
+          "intervalle_debit": "[13,498 - 17,604]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 14772.39,
+          "budget_credit": 0.0,
+          "budget_total": 14772.39,
+          "tendance_pct": 0.66,
+          "intervalle_debit": "[13,552 - 15,993]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 13245.3,
+          "budget_credit": 0.0,
+          "budget_total": 13245.3,
+          "tendance_pct": 2.35,
+          "intervalle_debit": "[11,453 - 15,038]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 21262.94,
+          "budget_credit": 0.0,
+          "budget_total": 21262.94,
+          "tendance_pct": 6.44,
+          "intervalle_debit": "[18,189 - 24,337]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 21724.39,
+          "budget_credit": 0.0,
+          "budget_total": 21724.39,
+          "tendance_pct": 2.9,
+          "intervalle_debit": "[19,161 - 24,287]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 25971.69,
+          "budget_credit": 0.0,
+          "budget_total": 25971.69,
+          "tendance_pct": 8.45,
+          "intervalle_debit": "[20,835 - 31,108]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 22976.89,
+          "budget_credit": 0.0,
+          "budget_total": 22976.89,
+          "tendance_pct": 3.91,
+          "intervalle_debit": "[20,732 - 25,222]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6165": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 504817.06,
+        "credit": 0.0,
+        "total": 504817.06
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 46775.11,
+          "budget_credit": 0.0,
+          "budget_total": 46775.11,
+          "tendance_pct": 1.75,
+          "intervalle_debit": "[40,948 - 52,602]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 38326.02,
+          "budget_credit": 0.0,
+          "budget_total": 38326.02,
+          "tendance_pct": 2.02,
+          "intervalle_debit": "[34,302 - 42,350]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 41618.04,
+          "budget_credit": 0.0,
+          "budget_total": 41618.04,
+          "tendance_pct": 1.07,
+          "intervalle_debit": "[34,848 - 48,388]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 38805.5,
+          "budget_credit": 0.0,
+          "budget_total": 38805.5,
+          "tendance_pct": 1.79,
+          "intervalle_debit": "[34,375 - 43,236]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 43024.6,
+          "budget_credit": 0.0,
+          "budget_total": 43024.6,
+          "tendance_pct": 1.83,
+          "intervalle_debit": "[38,063 - 47,987]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 49910.97,
+          "budget_credit": 0.0,
+          "budget_total": 49910.97,
+          "tendance_pct": 8.49,
+          "intervalle_debit": "[41,290 - 58,532]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 36771.54,
+          "budget_credit": 0.0,
+          "budget_total": 36771.54,
+          "tendance_pct": 3.43,
+          "intervalle_debit": "[30,838 - 42,705]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 27224.47,
+          "budget_credit": 0.0,
+          "budget_total": 27224.47,
+          "tendance_pct": -0.05,
+          "intervalle_debit": "[24,796 - 29,653]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 48928.71,
+          "budget_credit": 0.0,
+          "budget_total": 48928.71,
+          "tendance_pct": 6.08,
+          "intervalle_debit": "[41,478 - 56,379]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 49164.59,
+          "budget_credit": 0.0,
+          "budget_total": 49164.59,
+          "tendance_pct": 5.93,
+          "intervalle_debit": "[41,237 - 57,092]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 44929.88,
+          "budget_credit": 0.0,
+          "budget_total": 44929.88,
+          "tendance_pct": 2.89,
+          "intervalle_debit": "[40,152 - 49,708]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 39337.63,
+          "budget_credit": 0.0,
+          "budget_total": 39337.63,
+          "tendance_pct": -2.09,
+          "intervalle_debit": "[33,359 - 45,317]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6171": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 318411.6,
+        "credit": 0.0,
+        "total": 318411.6
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 27129.43,
+          "budget_credit": 0.0,
+          "budget_total": 27129.43,
+          "tendance_pct": -0.15,
+          "intervalle_debit": "[25,011 - 29,248]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 24531.85,
+          "budget_credit": 0.0,
+          "budget_total": 24531.85,
+          "tendance_pct": 1.72,
+          "intervalle_debit": "[20,610 - 28,454]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 29052.18,
+          "budget_credit": 0.0,
+          "budget_total": 29052.18,
+          "tendance_pct": 5.35,
+          "intervalle_debit": "[23,620 - 34,484]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 28563.42,
+          "budget_credit": 0.0,
+          "budget_total": 28563.42,
+          "tendance_pct": 4.63,
+          "intervalle_debit": "[23,726 - 33,401]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 25468.0,
+          "budget_credit": 0.0,
+          "budget_total": 25468.0,
+          "tendance_pct": 1.84,
+          "intervalle_debit": "[21,687 - 29,249]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 20641.02,
+          "budget_credit": 0.0,
+          "budget_total": 20641.02,
+          "tendance_pct": -1.74,
+          "intervalle_debit": "[18,362 - 22,920]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 23568.08,
+          "budget_credit": 0.0,
+          "budget_total": 23568.08,
+          "tendance_pct": 2.8,
+          "intervalle_debit": "[21,123 - 26,013]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 24876.82,
+          "budget_credit": 0.0,
+          "budget_total": 24876.82,
+          "tendance_pct": 6.08,
+          "intervalle_debit": "[20,853 - 28,901]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 27233.62,
+          "budget_credit": 0.0,
+          "budget_total": 27233.62,
+          "tendance_pct": 3.55,
+          "intervalle_debit": "[23,856 - 30,611]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 24592.75,
+          "budget_credit": 0.0,
+          "budget_total": 24592.75,
+          "tendance_pct": -0.39,
+          "intervalle_debit": "[21,326 - 27,859]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 30946.98,
+          "budget_credit": 0.0,
+          "budget_total": 30946.98,
+          "tendance_pct": 2.91,
+          "intervalle_debit": "[26,345 - 35,549]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 31807.45,
+          "budget_credit": 0.0,
+          "budget_total": 31807.45,
+          "tendance_pct": 3.93,
+          "intervalle_debit": "[28,364 - 35,251]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 4
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6174": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 147615.92,
+        "credit": 0.0,
+        "total": 147615.92
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 13720.69,
+          "budget_credit": 0.0,
+          "budget_total": 13720.69,
+          "tendance_pct": 3.1,
+          "intervalle_debit": "[12,597 - 14,844]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 4
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 9494.74,
+          "budget_credit": 0.0,
+          "budget_total": 9494.74,
+          "tendance_pct": -0.73,
+          "intervalle_debit": "[8,816 - 10,173]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 14727.23,
+          "budget_credit": 0.0,
+          "budget_total": 14727.23,
+          "tendance_pct": 6.63,
+          "intervalle_debit": "[12,569 - 16,885]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 14614.44,
+          "budget_credit": 0.0,
+          "budget_total": 14614.44,
+          "tendance_pct": 4.48,
+          "intervalle_debit": "[13,029 - 16,200]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 12944.77,
+          "budget_credit": 0.0,
+          "budget_total": 12944.77,
+          "tendance_pct": 4.41,
+          "intervalle_debit": "[10,576 - 15,313]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 10601.25,
+          "budget_credit": 0.0,
+          "budget_total": 10601.25,
+          "tendance_pct": -0.43,
+          "intervalle_debit": "[9,488 - 11,714]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 11548.33,
+          "budget_credit": 0.0,
+          "budget_total": 11548.33,
+          "tendance_pct": 4.77,
+          "intervalle_debit": "[8,985 - 14,112]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 7992.61,
+          "budget_credit": 0.0,
+          "budget_total": 7992.61,
+          "tendance_pct": -1.57,
+          "intervalle_debit": "[7,285 - 8,701]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 13197.17,
+          "budget_credit": 0.0,
+          "budget_total": 13197.17,
+          "tendance_pct": 3.11,
+          "intervalle_debit": "[10,849 - 15,545]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 13300.35,
+          "budget_credit": 0.0,
+          "budget_total": 13300.35,
+          "tendance_pct": 2.64,
+          "intervalle_debit": "[10,762 - 15,839]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 12825.62,
+          "budget_credit": 0.0,
+          "budget_total": 12825.62,
+          "tendance_pct": 1.72,
+          "intervalle_debit": "[10,953 - 14,698]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 12648.72,
+          "budget_credit": 0.0,
+          "budget_total": 12648.72,
+          "tendance_pct": -1.5,
+          "intervalle_debit": "[11,180 - 14,117]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6176": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 661925.16,
+        "credit": 0.0,
+        "total": 661925.16
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 56942.58,
+          "budget_credit": 0.0,
+          "budget_total": 56942.58,
+          "tendance_pct": 3.17,
+          "intervalle_debit": "[50,926 - 62,960]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 45518.49,
+          "budget_credit": 0.0,
+          "budget_total": 45518.49,
+          "tendance_pct": 3.9,
+          "intervalle_debit": "[41,065 - 49,972]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 55612.87,
+          "budget_credit": 0.0,
+          "budget_total": 55612.87,
+          "tendance_pct": 2.7,
+          "intervalle_debit": "[50,427 - 60,799]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 57883.21,
+          "budget_credit": 0.0,
+          "budget_total": 57883.21,
+          "tendance_pct": 5.5,
+          "intervalle_debit": "[49,474 - 66,292]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 54804.74,
+          "budget_credit": 0.0,
+          "budget_total": 54804.74,
+          "tendance_pct": 3.29,
+          "intervalle_debit": "[46,500 - 63,110]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 49187.28,
+          "budget_credit": 0.0,
+          "budget_total": 49187.28,
+          "tendance_pct": 2.93,
+          "intervalle_debit": "[41,859 - 56,515]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 42472.99,
+          "budget_credit": 0.0,
+          "budget_total": 42472.99,
+          "tendance_pct": 3.12,
+          "intervalle_debit": "[37,009 - 47,937]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 35079.19,
+          "budget_credit": 0.0,
+          "budget_total": 35079.19,
+          "tendance_pct": -0.09,
+          "intervalle_debit": "[29,876 - 40,282]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 69429.56,
+          "budget_credit": 0.0,
+          "budget_total": 69429.56,
+          "tendance_pct": 9.07,
+          "intervalle_debit": "[56,015 - 82,845]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 58857.43,
+          "budget_credit": 0.0,
+          "budget_total": 58857.43,
+          "tendance_pct": 5.15,
+          "intervalle_debit": "[49,626 - 68,089]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 60061.28,
+          "budget_credit": 0.0,
+          "budget_total": 60061.28,
+          "tendance_pct": 3.16,
+          "intervalle_debit": "[50,215 - 69,908]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 76075.54,
+          "budget_credit": 0.0,
+          "budget_total": 76075.54,
+          "tendance_pct": 15.15,
+          "intervalle_debit": "[62,776 - 89,375]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 3
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6178": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 116753.53,
+        "credit": 0.0,
+        "total": 116753.53
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 10927.49,
+          "budget_credit": 0.0,
+          "budget_total": 10927.49,
+          "tendance_pct": 4.66,
+          "intervalle_debit": "[9,714 - 12,141]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 4
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 9276.81,
+          "budget_credit": 0.0,
+          "budget_total": 9276.81,
+          "tendance_pct": 3.96,
+          "intervalle_debit": "[8,075 - 10,478]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 7836.18,
+          "budget_credit": 0.0,
+          "budget_total": 7836.18,
+          "tendance_pct": -0.32,
+          "intervalle_debit": "[6,724 - 8,949]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 9872.89,
+          "budget_credit": 0.0,
+          "budget_total": 9872.89,
+          "tendance_pct": 3.54,
+          "intervalle_debit": "[8,218 - 11,528]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 8703.1,
+          "budget_credit": 0.0,
+          "budget_total": 8703.1,
+          "tendance_pct": 1.93,
+          "intervalle_debit": "[7,585 - 9,821]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 10196.62,
+          "budget_credit": 0.0,
+          "budget_total": 10196.62,
+          "tendance_pct": 5.86,
+          "intervalle_debit": "[8,736 - 11,657]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 8057.01,
+          "budget_credit": 0.0,
+          "budget_total": 8057.01,
+          "tendance_pct": 4.32,
+          "intervalle_debit": "[6,899 - 9,215]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 8083.08,
+          "budget_credit": 0.0,
+          "budget_total": 8083.08,
+          "tendance_pct": 2.98,
+          "intervalle_debit": "[7,367 - 8,800]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 10806.86,
+          "budget_credit": 0.0,
+          "budget_total": 10806.86,
+          "tendance_pct": 5.19,
+          "intervalle_debit": "[9,404 - 12,210]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 11211.3,
+          "budget_credit": 0.0,
+          "budget_total": 11211.3,
+          "tendance_pct": 6.17,
+          "intervalle_debit": "[9,571 - 12,852]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 10965.19,
+          "budget_credit": 0.0,
+          "budget_total": 10965.19,
+          "tendance_pct": 5.73,
+          "intervalle_debit": "[9,160 - 12,771]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 10817.0,
+          "budget_credit": 0.0,
+          "budget_total": 10817.0,
+          "tendance_pct": 2.32,
+          "intervalle_debit": "[9,914 - 11,720]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6185": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 389992.92,
+        "credit": 0.0,
+        "total": 389992.92
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 36472.07,
+          "budget_credit": 0.0,
+          "budget_total": 36472.07,
+          "tendance_pct": 2.44,
+          "intervalle_debit": "[30,523 - 42,421]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 27374.6,
+          "budget_credit": 0.0,
+          "budget_total": 27374.6,
+          "tendance_pct": 0.55,
+          "intervalle_debit": "[21,865 - 32,884]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 38673.48,
+          "budget_credit": 0.0,
+          "budget_total": 38673.48,
+          "tendance_pct": 6.89,
+          "intervalle_debit": "[32,685 - 44,662]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 32717.19,
+          "budget_credit": 0.0,
+          "budget_total": 32717.19,
+          "tendance_pct": 3.02,
+          "intervalle_debit": "[29,592 - 35,842]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 33248.42,
+          "budget_credit": 0.0,
+          "budget_total": 33248.42,
+          "tendance_pct": 3.12,
+          "intervalle_debit": "[26,490 - 40,007]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 30411.92,
+          "budget_credit": 0.0,
+          "budget_total": 30411.92,
+          "tendance_pct": 1.31,
+          "intervalle_debit": "[25,943 - 34,881]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 23873.8,
+          "budget_credit": 0.0,
+          "budget_total": 23873.8,
+          "tendance_pct": 0.42,
+          "intervalle_debit": "[22,805 - 24,943]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 21552.52,
+          "budget_credit": 0.0,
+          "budget_total": 21552.52,
+          "tendance_pct": -1.15,
+          "intervalle_debit": "[18,225 - 24,880]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 30026.25,
+          "budget_credit": 0.0,
+          "budget_total": 30026.25,
+          "tendance_pct": 2.24,
+          "intervalle_debit": "[27,683 - 32,370]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 41903.64,
+          "budget_credit": 0.0,
+          "budget_total": 41903.64,
+          "tendance_pct": 8.06,
+          "intervalle_debit": "[34,184 - 49,623]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 37790.1,
+          "budget_credit": 0.0,
+          "budget_total": 37790.1,
+          "tendance_pct": 3.27,
+          "intervalle_debit": "[33,421 - 42,159]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 35948.93,
+          "budget_credit": 0.0,
+          "budget_total": 35948.93,
+          "tendance_pct": 1.34,
+          "intervalle_debit": "[32,249 - 39,649]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 4
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6190": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 248555.95,
+        "credit": 0.0,
+        "total": 248555.95
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 22368.56,
+          "budget_credit": 0.0,
+          "budget_total": 22368.56,
+          "tendance_pct": 1.02,
+          "intervalle_debit": "[18,222 - 26,515]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 16791.02,
+          "budget_credit": 0.0,
+          "budget_total": 16791.02,
+          "tendance_pct": -0.35,
+          "intervalle_debit": "[15,539 - 18,043]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 24560.86,
+          "budget_credit": 0.0,
+          "budget_total": 24560.86,
+          "tendance_pct": 5.79,
+          "intervalle_debit": "[20,265 - 28,857]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 20415.46,
+          "budget_credit": 0.0,
+          "budget_total": 20415.46,
+          "tendance_pct": 3.02,
+          "intervalle_debit": "[16,752 - 24,079]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 15911.85,
+          "budget_credit": 0.0,
+          "budget_total": 15911.85,
+          "tendance_pct": -2.21,
+          "intervalle_debit": "[13,603 - 18,221]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 22101.52,
+          "budget_credit": 0.0,
+          "budget_total": 22101.52,
+          "tendance_pct": 6.84,
+          "intervalle_debit": "[18,295 - 25,908]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 17301.34,
+          "budget_credit": 0.0,
+          "budget_total": 17301.34,
+          "tendance_pct": 2.96,
+          "intervalle_debit": "[14,060 - 20,543]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 17225.28,
+          "budget_credit": 0.0,
+          "budget_total": 17225.28,
+          "tendance_pct": 5.4,
+          "intervalle_debit": "[15,091 - 19,359]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 21923.4,
+          "budget_credit": 0.0,
+          "budget_total": 21923.4,
+          "tendance_pct": 4.63,
+          "intervalle_debit": "[19,221 - 24,626]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 27154.01,
+          "budget_credit": 0.0,
+          "budget_total": 27154.01,
+          "tendance_pct": 6.42,
+          "intervalle_debit": "[22,905 - 31,403]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 21759.95,
+          "budget_credit": 0.0,
+          "budget_total": 21759.95,
+          "tendance_pct": 1.0,
+          "intervalle_debit": "[18,263 - 25,257]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 21042.7,
+          "budget_credit": 0.0,
+          "budget_total": 21042.7,
+          "tendance_pct": 0.21,
+          "intervalle_debit": "[18,025 - 24,060]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6200": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 5848027.58,
+        "credit": 0.0,
+        "total": 5848027.58
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 470420.76,
+          "budget_credit": 0.0,
+          "budget_total": 470420.76,
+          "tendance_pct": -0.24,
+          "intervalle_debit": "[428,314 - 512,527]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 503481.54,
+          "budget_credit": 0.0,
+          "budget_total": 503481.54,
+          "tendance_pct": 5.31,
+          "intervalle_debit": "[426,543 - 580,420]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 538001.71,
+          "budget_credit": 0.0,
+          "budget_total": 538001.71,
+          "tendance_pct": 2.87,
+          "intervalle_debit": "[494,672 - 581,332]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 398798.3,
+          "budget_credit": 0.0,
+          "budget_total": 398798.3,
+          "tendance_pct": -1.23,
+          "intervalle_debit": "[381,029 - 416,568]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 546738.94,
+          "budget_credit": 0.0,
+          "budget_total": 546738.94,
+          "tendance_pct": 6.38,
+          "intervalle_debit": "[451,954 - 641,524]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 450239.24,
+          "budget_credit": 0.0,
+          "budget_total": 450239.24,
+          "tendance_pct": 3.14,
+          "intervalle_debit": "[380,842 - 519,636]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 376026.17,
+          "budget_credit": 0.0,
+          "budget_total": 376026.17,
+          "tendance_pct": 2.07,
+          "intervalle_debit": "[314,619 - 437,433]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 346445.78,
+          "budget_credit": 0.0,
+          "budget_total": 346445.78,
+          "tendance_pct": 2.26,
+          "intervalle_debit": "[302,839 - 390,053]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 590225.99,
+          "budget_credit": 0.0,
+          "budget_total": 590225.99,
+          "tendance_pct": 6.73,
+          "intervalle_debit": "[485,923 - 694,529]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 556696.9,
+          "budget_credit": 0.0,
+          "budget_total": 556696.9,
+          "tendance_pct": 4.79,
+          "intervalle_debit": "[466,893 - 646,501]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 411036.42,
+          "budget_credit": 0.0,
+          "budget_total": 411036.42,
+          "tendance_pct": -2.69,
+          "intervalle_debit": "[364,691 - 457,382]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 659915.83,
+          "budget_credit": 0.0,
+          "budget_total": 659915.83,
+          "tendance_pct": 6.78,
+          "intervalle_debit": "[536,881 - 782,951]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_6210": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 1582853.05,
+        "credit": 0.0,
+        "total": 1582853.05
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 160280.93,
+          "budget_credit": 0.0,
+          "budget_total": 160280.93,
+          "tendance_pct": 3.65,
+          "intervalle_debit": "[134,969 - 185,593]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 113943.45,
+          "budget_credit": 0.0,
+          "budget_total": 113943.45,
+          "tendance_pct": -0.08,
+          "intervalle_debit": "[95,258 - 132,629]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 134552.42,
+          "budget_credit": 0.0,
+          "budget_total": 134552.42,
+          "tendance_pct": 2.39,
+          "intervalle_debit": "[117,425 - 151,680]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 144484.32,
+          "budget_credit": 0.0,
+          "budget_total": 144484.32,
+          "tendance_pct": 4.34,
+          "intervalle_debit": "[116,915 - 172,054]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 136666.34,
+          "budget_credit": 0.0,
+          "budget_total": 136666.34,
+          "tendance_pct": 4.63,
+          "intervalle_debit": "[118,117 - 155,216]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 102089.38,
+          "budget_credit": 0.0,
+          "budget_total": 102089.38,
+          "tendance_pct": -1.05,
+          "intervalle_debit": "[89,378 - 114,801]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 114959.81,
+          "budget_credit": 0.0,
+          "budget_total": 114959.81,
+          "tendance_pct": 4.7,
+          "intervalle_debit": "[97,039 - 132,880]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 97796.52,
+          "budget_credit": 0.0,
+          "budget_total": 97796.52,
+          "tendance_pct": 2.81,
+          "intervalle_debit": "[84,428 - 111,165]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 129969.32,
+          "budget_credit": 0.0,
+          "budget_total": 129969.32,
+          "tendance_pct": 0.83,
+          "intervalle_debit": "[115,208 - 144,731]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 120858.83,
+          "budget_credit": 0.0,
+          "budget_total": 120858.83,
+          "tendance_pct": -1.15,
+          "intervalle_debit": "[109,694 - 132,024]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 171792.78,
+          "budget_credit": 0.0,
+          "budget_total": 171792.78,
+          "tendance_pct": 7.22,
+          "intervalle_debit": "[141,829 - 201,756]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 155458.95,
+          "budget_credit": 0.0,
+          "budget_total": 155458.95,
+          "tendance_pct": 3.45,
+          "intervalle_debit": "[132,623 - 178,295]",
+          "intervalle_credit": "[0 - 0]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_7111": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 0.0,
+        "credit": 12380880.34,
+        "total": 12380880.34
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 0.0,
+          "budget_credit": 1054904.81,
+          "budget_total": 1054904.81,
+          "tendance_pct": -0.28,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[901,493 - 1,208,316]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 0.0,
+          "budget_credit": 874810.19,
+          "budget_total": 874810.19,
+          "tendance_pct": -1.25,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[735,564 - 1,014,057]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 0.0,
+          "budget_credit": 1076603.88,
+          "budget_total": 1076603.88,
+          "tendance_pct": 2.55,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[931,582 - 1,221,626]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 0.0,
+          "budget_credit": 1168536.03,
+          "budget_total": 1168536.03,
+          "tendance_pct": 3.99,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[976,293 - 1,360,779]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 0.0,
+          "budget_credit": 1228619.12,
+          "budget_total": 1228619.12,
+          "tendance_pct": 5.27,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[1,065,841 - 1,391,397]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 0.0,
+          "budget_credit": 714428.43,
+          "budget_total": 714428.43,
+          "tendance_pct": -4.06,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[566,458 - 862,399]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 0.0,
+          "budget_credit": 799323.32,
+          "budget_total": 799323.32,
+          "tendance_pct": 0.17,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[656,728 - 941,919]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 0.0,
+          "budget_credit": 865527.77,
+          "budget_total": 865527.77,
+          "tendance_pct": 2.73,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[687,252 - 1,043,803]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 0.0,
+          "budget_credit": 1217079.05,
+          "budget_total": 1217079.05,
+          "tendance_pct": 3.66,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[1,093,714 - 1,340,444]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 0.0,
+          "budget_credit": 1103065.13,
+          "budget_total": 1103065.13,
+          "tendance_pct": 1.31,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[927,365 - 1,278,765]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 0.0,
+          "budget_credit": 1183214.5,
+          "budget_total": 1183214.5,
+          "tendance_pct": 3.31,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[1,049,549 - 1,316,880]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 0.0,
+          "budget_credit": 1094768.11,
+          "budget_total": 1094768.11,
+          "tendance_pct": 0.17,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[1,024,442 - 1,165,095]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_7120": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 0.0,
+        "credit": 449646.72,
+        "total": 449646.72
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 0.0,
+          "budget_credit": 39468.47,
+          "budget_total": 39468.47,
+          "tendance_pct": 1.41,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[32,123 - 46,814]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 0.0,
+          "budget_credit": 34144.17,
+          "budget_total": 34144.17,
+          "tendance_pct": 3.59,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[28,777 - 39,512]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 0.0,
+          "budget_credit": 41647.71,
+          "budget_total": 41647.71,
+          "tendance_pct": 4.7,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[36,934 - 46,362]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 0.0,
+          "budget_credit": 35298.03,
+          "budget_total": 35298.03,
+          "tendance_pct": 1.58,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[29,817 - 40,779]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 0.0,
+          "budget_credit": 38123.74,
+          "budget_total": 38123.74,
+          "tendance_pct": 3.32,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[34,323 - 41,924]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 0.0,
+          "budget_credit": 40205.04,
+          "budget_total": 40205.04,
+          "tendance_pct": 4.32,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[34,886 - 45,524]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 0.0,
+          "budget_credit": 30548.05,
+          "budget_total": 30548.05,
+          "tendance_pct": 2.41,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[27,093 - 34,003]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 0.0,
+          "budget_credit": 34624.4,
+          "budget_total": 34624.4,
+          "tendance_pct": 6.29,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[29,443 - 39,806]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 0.0,
+          "budget_credit": 45684.06,
+          "budget_total": 45684.06,
+          "tendance_pct": 6.53,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[38,233 - 53,135]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 0.0,
+          "budget_credit": 36122.65,
+          "budget_total": 36122.65,
+          "tendance_pct": 0.67,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[34,043 - 38,203]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 0.0,
+          "budget_credit": 36840.7,
+          "budget_total": 36840.7,
+          "tendance_pct": 0.03,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[31,240 - 42,442]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 0.0,
+          "budget_credit": 36939.7,
+          "budget_total": 36939.7,
+          "tendance_pct": -0.31,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[34,747 - 39,133]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 4
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    },
+    "COMPTE_7300": {
+      "model": "Moyenne Saisonnière Intelligente",
+      "budget_annuel": {
+        "debit": 0.0,
+        "credit": 140835.6,
+        "total": 140835.6
+      },
+      "fiabilite_globale": 100.0,
+      "predictions_monthly": [
+        {
+          "mois_num": 1,
+          "mois": "January",
+          "budget_debit": 0.0,
+          "budget_credit": 13904.96,
+          "budget_total": 13904.96,
+          "tendance_pct": 2.59,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[12,026 - 15,784]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 2,
+          "mois": "February",
+          "budget_debit": 0.0,
+          "budget_credit": 11375.05,
+          "budget_total": 11375.05,
+          "tendance_pct": 5.26,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[9,565 - 13,185]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 3,
+          "mois": "March",
+          "budget_debit": 0.0,
+          "budget_credit": 12008.67,
+          "budget_total": 12008.67,
+          "tendance_pct": 2.33,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[11,143 - 12,874]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 4,
+          "mois": "April",
+          "budget_debit": 0.0,
+          "budget_credit": 10415.33,
+          "budget_total": 10415.33,
+          "tendance_pct": 0.33,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[9,394 - 11,437]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 5,
+          "mois": "May",
+          "budget_debit": 0.0,
+          "budget_credit": 11917.66,
+          "budget_total": 11917.66,
+          "tendance_pct": 4.09,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[10,634 - 13,201]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 6,
+          "mois": "June",
+          "budget_debit": 0.0,
+          "budget_credit": 12819.9,
+          "budget_total": 12819.9,
+          "tendance_pct": 5.52,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[10,590 - 15,050]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 7,
+          "mois": "July",
+          "budget_debit": 0.0,
+          "budget_credit": 9481.49,
+          "budget_total": 9481.49,
+          "tendance_pct": 2.19,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[8,360 - 10,603]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 8,
+          "mois": "August",
+          "budget_debit": 0.0,
+          "budget_credit": 7904.57,
+          "budget_total": 7904.57,
+          "tendance_pct": -1.07,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[7,223 - 8,586]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 9,
+          "mois": "September",
+          "budget_debit": 0.0,
+          "budget_credit": 12047.14,
+          "budget_total": 12047.14,
+          "tendance_pct": 2.78,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[10,883 - 13,212]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 10,
+          "mois": "October",
+          "budget_debit": 0.0,
+          "budget_credit": 14417.81,
+          "budget_total": 14417.81,
+          "tendance_pct": 5.11,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[12,222 - 16,613]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 11,
+          "mois": "November",
+          "budget_debit": 0.0,
+          "budget_credit": 13970.73,
+          "budget_total": 13970.73,
+          "tendance_pct": 3.71,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[12,338 - 15,603]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        },
+        {
+          "mois_num": 12,
+          "mois": "December",
+          "budget_debit": 0.0,
+          "budget_credit": 10572.29,
+          "budget_total": 10572.29,
+          "tendance_pct": -1.82,
+          "intervalle_debit": "[0 - 0]",
+          "intervalle_credit": "[9,461 - 11,683]",
+          "volatilite": "Faible",
+          "fiabilite": 100,
+          "anomalies": [
+            "Aucune"
+          ],
+          "n_annees": 5
+        }
+      ],
+      "commentaire_ia": "⚠️ Erreur Ollama (500). Commentaire non disponible."
+    }
+  }
+}

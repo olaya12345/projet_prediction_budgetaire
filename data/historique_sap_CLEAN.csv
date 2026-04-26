@@ -1,0 +1,1794 @@
+date,num_compte,nom_compte,type,montant_debit,montant_credit
+2016-01-01,COMPTE_6011,Achats matières premières,dépense,101838.69,0.0
+2016-01-01,COMPTE_7111,Chiffre d affaires,produit,0.0,942565.13
+2016-01-02,COMPTE_6174,Téléphone et internet,dépense,10040.37,0.0
+2016-01-03,COMPTE_6171,Transport et livraisons,dépense,23135.44,0.0
+2016-01-06,COMPTE_7120,Subventions reçues,produit,0.0,30982.21
+2016-01-07,COMPTE_6176,Honoraires consultants,dépense,34572.3,0.0
+2016-01-07,COMPTE_6185,Maintenance équipements,dépense,21706.41,0.0
+2016-01-08,COMPTE_6141,Loyers,dépense,55500.07,0.0
+2016-01-08,COMPTE_6200,Salaires,dépense,372961.54,0.0
+2016-01-09,COMPTE_6210,Charges sociales CNSS,dépense,100790.46,0.0
+2016-01-11,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9746.86
+2016-01-20,COMPTE_6178,Fournitures de bureau,dépense,6558.16,0.0
+2016-01-23,COMPTE_6190,Formation du personnel,dépense,17143.37,0.0
+2016-01-24,COMPTE_6165,Electricité et eau,dépense,28360.1,0.0
+2016-01-24,COMPTE_6161,Assurances,dépense,13181.35,0.0
+2016-02-04,COMPTE_6176,Honoraires consultants,dépense,32845.26,0.0
+2016-02-07,COMPTE_6011,Achats matières premières,dépense,75368.93,0.0
+2016-02-09,COMPTE_6171,Transport et livraisons,dépense,16299.49,0.0
+2016-02-10,COMPTE_6185,Maintenance équipements,dépense,18259.08,0.0
+2016-02-10,COMPTE_7120,Subventions reçues,produit,0.0,21811.28
+2016-02-11,COMPTE_6141,Loyers,dépense,48613.76,0.0
+2016-02-12,COMPTE_6200,Salaires,dépense,339153.2,0.0
+2016-02-13,COMPTE_6161,Assurances,dépense,10457.87,0.0
+2016-02-13,COMPTE_6178,Fournitures de bureau,dépense,6726.0,0.0
+2016-02-20,COMPTE_6190,Formation du personnel,dépense,14614.32,0.0
+2016-02-22,COMPTE_7111,Chiffre d affaires,produit,0.0,620492.41
+2016-02-23,COMPTE_6210,Charges sociales CNSS,dépense,86512.04,0.0
+2016-02-24,COMPTE_6174,Téléphone et internet,dépense,8819.02,0.0
+2016-02-28,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8706.31
+2016-02-28,COMPTE_6165,Electricité et eau,dépense,23381.8,0.0
+2016-03-02,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7717.2
+2016-03-02,COMPTE_7120,Subventions reçues,produit,0.0,28362.97
+2016-03-04,COMPTE_6011,Achats matières premières,dépense,82095.48,0.0
+2016-03-06,COMPTE_6185,Maintenance équipements,dépense,24687.85,0.0
+2016-03-08,COMPTE_6210,Charges sociales CNSS,dépense,98725.12,0.0
+2016-03-09,COMPTE_6171,Transport et livraisons,dépense,17252.9,0.0
+2016-03-09,COMPTE_6190,Formation du personnel,dépense,14533.57,0.0
+2016-03-12,COMPTE_6161,Assurances,dépense,13659.26,0.0
+2016-03-12,COMPTE_6165,Electricité et eau,dépense,26424.61,0.0
+2016-03-15,COMPTE_6141,Loyers,dépense,45550.79,0.0
+2016-03-18,COMPTE_6178,Fournitures de bureau,dépense,6773.61,0.0
+2016-03-20,COMPTE_6176,Honoraires consultants,dépense,38382.09,0.0
+2016-03-21,COMPTE_6200,Salaires,dépense,385343.95,0.0
+2016-03-22,COMPTE_6174,Téléphone et internet,dépense,9465.37,0.0
+2016-03-27,COMPTE_7111,Chiffre d affaires,produit,0.0,831115.12
+2016-04-03,COMPTE_7111,Chiffre d affaires,produit,0.0,752143.42
+2016-04-05,COMPTE_6210,Charges sociales CNSS,dépense,85315.31,0.0
+2016-04-07,COMPTE_6141,Loyers,dépense,41864.5,0.0
+2016-04-09,COMPTE_6176,Honoraires consultants,dépense,34567.94,0.0
+2016-04-09,COMPTE_6185,Maintenance équipements,dépense,22405.03,0.0
+2016-04-11,COMPTE_6165,Electricité et eau,dépense,31161.49,0.0
+2016-04-13,COMPTE_6200,Salaires,dépense,358191.0,0.0
+2016-04-13,COMPTE_6011,Achats matières premières,dépense,92778.67,0.0
+2016-04-14,COMPTE_6190,Formation du personnel,dépense,15037.46,0.0
+2016-04-16,COMPTE_6171,Transport et livraisons,dépense,16448.18,0.0
+2016-04-19,COMPTE_6161,Assurances,dépense,14049.26,0.0
+2016-04-21,COMPTE_6174,Téléphone et internet,dépense,8233.86,0.0
+2016-04-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7063.16
+2016-04-24,COMPTE_6178,Fournitures de bureau,dépense,5529.71,0.0
+2016-04-28,COMPTE_7120,Subventions reçues,produit,0.0,26918.37
+2016-05-01,COMPTE_6174,Téléphone et internet,dépense,9608.39,0.0
+2016-05-03,COMPTE_6141,Loyers,dépense,44828.14,0.0
+2016-05-04,COMPTE_6190,Formation du personnel,dépense,14883.88,0.0
+2016-05-04,COMPTE_6176,Honoraires consultants,dépense,37630.84,0.0
+2016-05-04,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7373.34
+2016-05-06,COMPTE_6200,Salaires,dépense,306179.53,0.0
+2016-05-09,COMPTE_7111,Chiffre d affaires,produit,0.0,851258.25
+2016-05-17,COMPTE_6165,Electricité et eau,dépense,32810.77,0.0
+2016-05-18,COMPTE_6171,Transport et livraisons,dépense,16990.79,0.0
+2016-05-18,COMPTE_6178,Fournitures de bureau,dépense,6668.74,0.0
+2016-05-20,COMPTE_6161,Assurances,dépense,12309.23,0.0
+2016-05-22,COMPTE_6011,Achats matières premières,dépense,77856.13,0.0
+2016-05-24,COMPTE_6210,Charges sociales CNSS,dépense,89519.71,0.0
+2016-05-25,COMPTE_7120,Subventions reçues,produit,0.0,29109.94
+2016-05-25,COMPTE_6185,Maintenance équipements,dépense,24128.91,0.0
+2016-06-01,COMPTE_6174,Téléphone et internet,dépense,9289.89,0.0
+2016-06-03,COMPTE_6210,Charges sociales CNSS,dépense,97905.54,0.0
+2016-06-05,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7836.14
+2016-06-05,COMPTE_6161,Assurances,dépense,12521.38,0.0
+2016-06-06,COMPTE_6165,Electricité et eau,dépense,26132.65,0.0
+2016-06-08,COMPTE_6190,Formation du personnel,dépense,14829.8,0.0
+2016-06-10,COMPTE_6011,Achats matières premières,dépense,91614.78,0.0
+2016-06-12,COMPTE_6178,Fournitures de bureau,dépense,5147.04,0.0
+2016-06-16,COMPTE_6176,Honoraires consultants,dépense,34957.75,0.0
+2016-06-17,COMPTE_6141,Loyers,dépense,48124.16,0.0
+2016-06-19,COMPTE_6200,Salaires,dépense,269233.99,0.0
+2016-06-25,COMPTE_6171,Transport et livraisons,dépense,17666.27,0.0
+2016-06-25,COMPTE_7120,Subventions reçues,produit,0.0,21116.02
+2016-06-27,COMPTE_7111,Chiffre d affaires,produit,0.0,778113.83
+2016-06-27,COMPTE_6185,Maintenance équipements,dépense,23764.58,0.0
+2016-07-06,COMPTE_6141,Loyers,dépense,43377.59,0.0
+2016-07-07,COMPTE_6165,Electricité et eau,dépense,24561.08,0.0
+2016-07-07,COMPTE_6174,Téléphone et internet,dépense,7723.38,0.0
+2016-07-08,COMPTE_7111,Chiffre d affaires,produit,0.0,585884.44
+2016-07-08,COMPTE_6190,Formation du personnel,dépense,11726.81,0.0
+2016-07-08,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7067.45
+2016-07-11,COMPTE_6200,Salaires,dépense,249535.3,0.0
+2016-07-13,COMPTE_6176,Honoraires consultants,dépense,31650.57,0.0
+2016-07-16,COMPTE_6011,Achats matières premières,dépense,64195.38,0.0
+2016-07-17,COMPTE_6185,Maintenance équipements,dépense,17989.89,0.0
+2016-07-18,COMPTE_6210,Charges sociales CNSS,dépense,64779.87,0.0
+2016-07-21,COMPTE_6178,Fournitures de bureau,dépense,6052.83,0.0
+2016-07-23,COMPTE_7120,Subventions reçues,produit,0.0,18108.34
+2016-07-25,COMPTE_6171,Transport et livraisons,dépense,17268.71,0.0
+2016-07-28,COMPTE_6161,Assurances,dépense,9876.12,0.0
+2016-08-02,COMPTE_6011,Achats matières premières,dépense,59174.97,0.0
+2016-08-03,COMPTE_6141,Loyers,dépense,39884.06,0.0
+2016-08-04,COMPTE_7120,Subventions reçues,produit,0.0,22904.99
+2016-08-04,COMPTE_6185,Maintenance équipements,dépense,17109.28,0.0
+2016-08-07,COMPTE_6165,Electricité et eau,dépense,23535.53,0.0
+2016-08-08,COMPTE_6176,Honoraires consultants,dépense,28640.18,0.0
+2016-08-09,COMPTE_6161,Assurances,dépense,10042.47,0.0
+2016-08-14,COMPTE_6200,Salaires,dépense,244810.05,0.0
+2016-08-14,COMPTE_6190,Formation du personnel,dépense,9845.69,0.0
+2016-08-19,COMPTE_6174,Téléphone et internet,dépense,7688.45,0.0
+2016-08-21,COMPTE_7111,Chiffre d affaires,produit,0.0,519750.81
+2016-08-24,COMPTE_6210,Charges sociales CNSS,dépense,70495.65,0.0
+2016-08-24,COMPTE_6171,Transport et livraisons,dépense,14569.49,0.0
+2016-08-24,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,5556.38
+2016-08-26,COMPTE_6178,Fournitures de bureau,dépense,5383.51,0.0
+2016-09-01,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7554.89
+2016-09-02,COMPTE_7120,Subventions reçues,produit,0.0,29121.62
+2016-09-03,COMPTE_6174,Téléphone et internet,dépense,9927.69,0.0
+2016-09-03,COMPTE_6190,Formation du personnel,dépense,16181.88,0.0
+2016-09-04,COMPTE_6178,Fournitures de bureau,dépense,7205.2,0.0
+2016-09-06,COMPTE_6165,Electricité et eau,dépense,26226.41,0.0
+2016-09-07,COMPTE_6141,Loyers,dépense,41711.39,0.0
+2016-09-07,COMPTE_7111,Chiffre d affaires,produit,0.0,784107.72
+2016-09-08,COMPTE_6171,Transport et livraisons,dépense,17644.35,0.0
+2016-09-14,COMPTE_6210,Charges sociales CNSS,dépense,86059.4,0.0
+2016-09-15,COMPTE_6161,Assurances,dépense,11905.2,0.0
+2016-09-18,COMPTE_6185,Maintenance équipements,dépense,19985.58,0.0
+2016-09-28,COMPTE_6200,Salaires,dépense,378977.79,0.0
+2016-09-28,COMPTE_6176,Honoraires consultants,dépense,36123.02,0.0
+2016-09-28,COMPTE_6011,Achats matières premières,dépense,84947.33,0.0
+2016-10-02,COMPTE_7111,Chiffre d affaires,produit,0.0,832703.72
+2016-10-02,COMPTE_6178,Fournitures de bureau,dépense,6242.42,0.0
+2016-10-03,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9727.54
+2016-10-03,COMPTE_7120,Subventions reçues,produit,0.0,31301.43
+2016-10-09,COMPTE_6011,Achats matières premières,dépense,107112.91,0.0
+2016-10-10,COMPTE_6176,Honoraires consultants,dépense,34512.9,0.0
+2016-10-11,COMPTE_6190,Formation du personnel,dépense,13371.62,0.0
+2016-10-14,COMPTE_6161,Assurances,dépense,13564.41,0.0
+2016-10-16,COMPTE_6174,Téléphone et internet,dépense,9804.05,0.0
+2016-10-18,COMPTE_6185,Maintenance équipements,dépense,24774.85,0.0
+2016-10-18,COMPTE_6171,Transport et livraisons,dépense,22742.81,0.0
+2016-10-19,COMPTE_6200,Salaires,dépense,305236.65,0.0
+2016-10-24,COMPTE_6165,Electricité et eau,dépense,32616.51,0.0
+2016-10-26,COMPTE_6141,Loyers,dépense,55833.79,0.0
+2016-10-28,COMPTE_6210,Charges sociales CNSS,dépense,97218.28,0.0
+2016-11-03,COMPTE_7111,Chiffre d affaires,produit,0.0,948112.62
+2016-11-03,COMPTE_6171,Transport et livraisons,dépense,17376.36,0.0
+2016-11-04,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10299.85
+2016-11-07,COMPTE_6178,Fournitures de bureau,dépense,7849.58,0.0
+2016-11-11,COMPTE_6210,Charges sociales CNSS,dépense,93699.11,0.0
+2016-11-11,COMPTE_6185,Maintenance équipements,dépense,25894.61,0.0
+2016-11-11,COMPTE_6176,Honoraires consultants,dépense,39967.07,0.0
+2016-11-13,COMPTE_6190,Formation du personnel,dépense,14450.78,0.0
+2016-11-13,COMPTE_6141,Loyers,dépense,55870.71,0.0
+2016-11-19,COMPTE_6161,Assurances,dépense,12403.52,0.0
+2016-11-19,COMPTE_6174,Téléphone et internet,dépense,9289.31,0.0
+2016-11-20,COMPTE_6165,Electricité et eau,dépense,28972.39,0.0
+2016-11-20,COMPTE_7120,Subventions reçues,produit,0.0,23878.25
+2016-11-21,COMPTE_6200,Salaires,dépense,318712.03,0.0
+2016-11-22,COMPTE_6011,Achats matières premières,dépense,97914.2,0.0
+2016-12-01,COMPTE_6178,Fournitures de bureau,dépense,7783.68,0.0
+2016-12-03,COMPTE_6161,Assurances,dépense,16949.67,0.0
+2016-12-04,COMPTE_6210,Charges sociales CNSS,dépense,99253.49,0.0
+2016-12-05,COMPTE_6200,Salaires,dépense,338333.17,0.0
+2016-12-05,COMPTE_6141,Loyers,dépense,54095.33,0.0
+2016-12-05,COMPTE_7111,Chiffre d affaires,produit,0.0,965452.5
+2016-12-07,COMPTE_6011,Achats matières premières,dépense,88941.78,0.0
+2016-12-11,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8766.61
+2016-12-12,COMPTE_6165,Electricité et eau,dépense,37423.04,0.0
+2016-12-15,COMPTE_6171,Transport et livraisons,dépense,20206.72,0.0
+2016-12-18,COMPTE_6185,Maintenance équipements,dépense,27729.48,0.0
+2016-12-20,COMPTE_7120,Subventions reçues,produit,0.0,27951.13
+2016-12-22,COMPTE_6190,Formation du personnel,dépense,15788.87,0.0
+2016-12-23,COMPTE_6174,Téléphone et internet,dépense,11221.26,0.0
+2016-12-26,COMPTE_6176,Honoraires consultants,dépense,39511.72,0.0
+2017-01-03,COMPTE_6200,Salaires,dépense,326422.24,0.0
+2017-01-05,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9804.84
+2017-01-06,COMPTE_6178,Fournitures de bureau,dépense,8482.54,0.0
+2017-01-09,COMPTE_6171,Transport et livraisons,dépense,21034.42,0.0
+2017-01-11,COMPTE_6174,Téléphone et internet,dépense,8775.56,0.0
+2017-01-12,COMPTE_7120,Subventions reçues,produit,0.0,25738.17
+2017-01-17,COMPTE_6141,Loyers,dépense,59518.13,0.0
+2017-01-18,COMPTE_6185,Maintenance équipements,dépense,28216.18,0.0
+2017-01-18,COMPTE_6190,Formation du personnel,dépense,17777.11,0.0
+2017-01-18,COMPTE_7111,Chiffre d affaires,produit,0.0,1005697.18
+2017-01-21,COMPTE_6176,Honoraires consultants,dépense,45264.72,0.0
+2017-01-21,COMPTE_6011,Achats matières premières,dépense,92620.31,0.0
+2017-01-21,COMPTE_6165,Electricité et eau,dépense,28975.15,0.0
+2017-01-23,COMPTE_6210,Charges sociales CNSS,dépense,120655.9,0.0
+2017-01-28,COMPTE_6161,Assurances,dépense,14898.57,0.0
+2017-02-02,COMPTE_6011,Achats matières premières,dépense,82211.05,0.0
+2017-02-02,COMPTE_6161,Assurances,dépense,14099.49,0.0
+2017-02-07,COMPTE_6165,Electricité et eau,dépense,30974.76,0.0
+2017-02-08,COMPTE_6185,Maintenance équipements,dépense,23362.79,0.0
+2017-02-14,COMPTE_6200,Salaires,dépense,345636.08,0.0
+2017-02-20,COMPTE_6178,Fournitures de bureau,dépense,5953.55,0.0
+2017-02-22,COMPTE_6171,Transport et livraisons,dépense,18755.36,0.0
+2017-02-24,COMPTE_6210,Charges sociales CNSS,dépense,75396.05,0.0
+2017-02-24,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8306.88
+2017-02-25,COMPTE_6174,Téléphone et internet,dépense,7397.28,0.0
+2017-02-26,COMPTE_6190,Formation du personnel,dépense,15344.97,0.0
+2017-02-26,COMPTE_7111,Chiffre d affaires,produit,0.0,835363.53
+2017-02-26,COMPTE_7120,Subventions reçues,produit,0.0,27892.35
+2017-02-26,COMPTE_6141,Loyers,dépense,41902.55,0.0
+2017-02-28,COMPTE_6176,Honoraires consultants,dépense,35201.23,0.0
+2017-03-01,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8293.48
+2017-03-07,COMPTE_6185,Maintenance équipements,dépense,20590.95,0.0
+2017-03-08,COMPTE_6178,Fournitures de bureau,dépense,7524.6,0.0
+2017-03-09,COMPTE_6190,Formation du personnel,dépense,14822.32,0.0
+2017-03-09,COMPTE_6011,Achats matières premières,dépense,101473.13,0.0
+2017-03-12,COMPTE_6174,Téléphone et internet,dépense,10447.22,0.0
+2017-03-16,COMPTE_6165,Electricité et eau,dépense,26344.81,0.0
+2017-03-18,COMPTE_7120,Subventions reçues,produit,0.0,31240.62
+2017-03-21,COMPTE_6210,Charges sociales CNSS,dépense,90748.08,0.0
+2017-03-22,COMPTE_7111,Chiffre d affaires,produit,0.0,821310.97
+2017-03-23,COMPTE_6141,Loyers,dépense,44115.89,0.0
+2017-03-25,COMPTE_6200,Salaires,dépense,387635.85,0.0
+2017-03-26,COMPTE_6176,Honoraires consultants,dépense,35986.32,0.0
+2017-03-27,COMPTE_6171,Transport et livraisons,dépense,18019.25,0.0
+2017-03-28,COMPTE_6161,Assurances,dépense,12045.15,0.0
+2017-04-01,COMPTE_6185,Maintenance équipements,dépense,24313.1,0.0
+2017-04-02,COMPTE_6178,Fournitures de bureau,dépense,5848.49,0.0
+2017-04-09,COMPTE_6141,Loyers,dépense,42287.09,0.0
+2017-04-09,COMPTE_6011,Achats matières premières,dépense,78198.86,0.0
+2017-04-12,COMPTE_7111,Chiffre d affaires,produit,0.0,819927.07
+2017-04-14,COMPTE_6171,Transport et livraisons,dépense,20328.58,0.0
+2017-04-17,COMPTE_6174,Téléphone et internet,dépense,9121.67,0.0
+2017-04-19,COMPTE_6176,Honoraires consultants,dépense,32202.85,0.0
+2017-04-20,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9370.24
+2017-04-20,COMPTE_6161,Assurances,dépense,11199.2,0.0
+2017-04-22,COMPTE_7120,Subventions reçues,produit,0.0,25464.12
+2017-04-24,COMPTE_6165,Electricité et eau,dépense,28548.35,0.0
+2017-04-24,COMPTE_6200,Salaires,dépense,336639.05,0.0
+2017-04-24,COMPTE_6210,Charges sociales CNSS,dépense,104785.23,0.0
+2017-04-26,COMPTE_6190,Formation du personnel,dépense,14647.01,0.0
+2017-05-06,COMPTE_6178,Fournitures de bureau,dépense,6926.82,0.0
+2017-05-07,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8339.14
+2017-05-10,COMPTE_6141,Loyers,dépense,42360.33,0.0
+2017-05-10,COMPTE_6185,Maintenance équipements,dépense,24146.35,0.0
+2017-05-10,COMPTE_6200,Salaires,dépense,288578.94,0.0
+2017-05-13,COMPTE_6165,Electricité et eau,dépense,28886.11,0.0
+2017-05-13,COMPTE_6176,Honoraires consultants,dépense,38965.05,0.0
+2017-05-14,COMPTE_6174,Téléphone et internet,dépense,8008.6,0.0
+2017-05-15,COMPTE_7120,Subventions reçues,produit,0.0,25105.81
+2017-05-18,COMPTE_6171,Transport et livraisons,dépense,20224.07,0.0
+2017-05-21,COMPTE_7111,Chiffre d affaires,produit,0.0,814690.77
+2017-05-22,COMPTE_6161,Assurances,dépense,13288.33,0.0
+2017-05-26,COMPTE_6210,Charges sociales CNSS,dépense,86202.6,0.0
+2017-05-27,COMPTE_6190,Formation du personnel,dépense,14432.73,0.0
+2017-05-28,COMPTE_6011,Achats matières premières,dépense,85134.34,0.0
+2017-06-03,COMPTE_6210,Charges sociales CNSS,dépense,99203.37,0.0
+2017-06-05,COMPTE_6185,Maintenance équipements,dépense,24234.72,0.0
+2017-06-08,COMPTE_6176,Honoraires consultants,dépense,40095.76,0.0
+2017-06-08,COMPTE_6178,Fournitures de bureau,dépense,6578.79,0.0
+2017-06-08,COMPTE_6190,Formation du personnel,dépense,12108.21,0.0
+2017-06-16,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8545.8
+2017-06-17,COMPTE_6165,Electricité et eau,dépense,24727.99,0.0
+2017-06-20,COMPTE_6171,Transport et livraisons,dépense,19051.0,0.0
+2017-06-20,COMPTE_6200,Salaires,dépense,369682.69,0.0
+2017-06-21,COMPTE_7111,Chiffre d affaires,produit,0.0,746480.36
+2017-06-22,COMPTE_6161,Assurances,dépense,13502.64,0.0
+2017-06-23,COMPTE_7120,Subventions reçues,produit,0.0,25792.53
+2017-06-26,COMPTE_6141,Loyers,dépense,50859.6,0.0
+2017-06-26,COMPTE_6011,Achats matières premières,dépense,86035.44,0.0
+2017-06-27,COMPTE_6174,Téléphone et internet,dépense,8150.83,0.0
+2017-07-01,COMPTE_6141,Loyers,dépense,41642.4,0.0
+2017-07-02,COMPTE_6176,Honoraires consultants,dépense,31106.68,0.0
+2017-07-04,COMPTE_6165,Electricité et eau,dépense,26757.25,0.0
+2017-07-05,COMPTE_6011,Achats matières premières,dépense,72877.97,0.0
+2017-07-05,COMPTE_6185,Maintenance équipements,dépense,17238.85,0.0
+2017-07-08,COMPTE_6171,Transport et livraisons,dépense,17241.07,0.0
+2017-07-17,COMPTE_7120,Subventions reçues,produit,0.0,24188.49
+2017-07-18,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,6916.57
+2017-07-18,COMPTE_6200,Salaires,dépense,285521.98,0.0
+2017-07-20,COMPTE_7111,Chiffre d affaires,produit,0.0,740854.62
+2017-07-22,COMPTE_6190,Formation du personnel,dépense,13495.1,0.0
+2017-07-23,COMPTE_6174,Téléphone et internet,dépense,6783.38,0.0
+2017-07-25,COMPTE_6210,Charges sociales CNSS,dépense,80928.94,0.0
+2017-07-28,COMPTE_6161,Assurances,dépense,12351.67,0.0
+2017-07-28,COMPTE_6178,Fournitures de bureau,dépense,5575.19,0.0
+2017-08-05,COMPTE_6200,Salaires,dépense,232739.9,0.0
+2017-08-06,COMPTE_6011,Achats matières premières,dépense,69572.5,0.0
+2017-08-07,COMPTE_7111,Chiffre d affaires,produit,0.0,559005.15
+2017-08-10,COMPTE_6178,Fournitures de bureau,dépense,4504.55,0.0
+2017-08-11,COMPTE_6185,Maintenance équipements,dépense,16846.05,0.0
+2017-08-14,COMPTE_7120,Subventions reçues,produit,0.0,18080.79
+2017-08-15,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,6318.3
+2017-08-15,COMPTE_6176,Honoraires consultants,dépense,26842.05,0.0
+2017-08-16,COMPTE_6141,Loyers,dépense,40176.74,0.0
+2017-08-18,COMPTE_6190,Formation du personnel,dépense,11017.99,0.0
+2017-08-21,COMPTE_6165,Electricité et eau,dépense,21529.51,0.0
+2017-08-21,COMPTE_6174,Téléphone et internet,dépense,7117.19,0.0
+2017-08-23,COMPTE_6210,Charges sociales CNSS,dépense,68078.14,0.0
+2017-08-25,COMPTE_6161,Assurances,dépense,10244.22,0.0
+2017-08-25,COMPTE_6171,Transport et livraisons,dépense,13975.5,0.0
+2017-09-01,COMPTE_6165,Electricité et eau,dépense,34667.64,0.0
+2017-09-01,COMPTE_7120,Subventions reçues,produit,0.0,26774.5
+2017-09-07,COMPTE_6011,Achats matières premières,dépense,90474.65,0.0
+2017-09-08,COMPTE_6210,Charges sociales CNSS,dépense,100198.47,0.0
+2017-09-09,COMPTE_7111,Chiffre d affaires,produit,0.0,816107.98
+2017-09-12,COMPTE_6176,Honoraires consultants,dépense,32554.6,0.0
+2017-09-13,COMPTE_6178,Fournitures de bureau,dépense,6361.36,0.0
+2017-09-13,COMPTE_6141,Loyers,dépense,54047.48,0.0
+2017-09-16,COMPTE_6174,Téléphone et internet,dépense,9492.77,0.0
+2017-09-19,COMPTE_6161,Assurances,dépense,15307.81,0.0
+2017-09-22,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8444.72
+2017-09-24,COMPTE_6190,Formation du personnel,dépense,14916.6,0.0
+2017-09-25,COMPTE_6171,Transport et livraisons,dépense,21759.58,0.0
+2017-09-26,COMPTE_6200,Salaires,dépense,374037.16,0.0
+2017-09-27,COMPTE_6185,Maintenance équipements,dépense,26571.37,0.0
+2017-10-01,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8004.08
+2017-10-02,COMPTE_6185,Maintenance équipements,dépense,24878.81,0.0
+2017-10-05,COMPTE_6161,Assurances,dépense,14160.1,0.0
+2017-10-11,COMPTE_6200,Salaires,dépense,334413.38,0.0
+2017-10-11,COMPTE_6190,Formation du personnel,dépense,14863.6,0.0
+2017-10-13,COMPTE_6210,Charges sociales CNSS,dépense,96852.49,0.0
+2017-10-13,COMPTE_6171,Transport et livraisons,dépense,17669.79,0.0
+2017-10-13,COMPTE_6011,Achats matières premières,dépense,102465.93,0.0
+2017-10-18,COMPTE_6165,Electricité et eau,dépense,36651.55,0.0
+2017-10-21,COMPTE_6176,Honoraires consultants,dépense,34359.55,0.0
+2017-10-22,COMPTE_6174,Téléphone et internet,dépense,9992.07,0.0
+2017-10-27,COMPTE_6141,Loyers,dépense,54942.26,0.0
+2017-10-27,COMPTE_7111,Chiffre d affaires,produit,0.0,800923.25
+2017-10-27,COMPTE_7120,Subventions reçues,produit,0.0,27927.03
+2017-10-28,COMPTE_6178,Fournitures de bureau,dépense,6940.9,0.0
+2017-11-01,COMPTE_6171,Transport et livraisons,dépense,18074.66,0.0
+2017-11-02,COMPTE_6011,Achats matières premières,dépense,106404.62,0.0
+2017-11-03,COMPTE_6161,Assurances,dépense,13355.4,0.0
+2017-11-04,COMPTE_6185,Maintenance équipements,dépense,25422.35,0.0
+2017-11-05,COMPTE_6178,Fournitures de bureau,dépense,6468.64,0.0
+2017-11-06,COMPTE_6210,Charges sociales CNSS,dépense,111967.77,0.0
+2017-11-07,COMPTE_6190,Formation du personnel,dépense,16620.15,0.0
+2017-11-07,COMPTE_6174,Téléphone et internet,dépense,11236.25,0.0
+2017-11-09,COMPTE_6200,Salaires,dépense,368826.07,0.0
+2017-11-10,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10211.01
+2017-11-12,COMPTE_6141,Loyers,dépense,60276.95,0.0
+2017-11-20,COMPTE_6176,Honoraires consultants,dépense,44916.9,0.0
+2017-11-21,COMPTE_6165,Electricité et eau,dépense,35366.07,0.0
+2017-11-24,COMPTE_7111,Chiffre d affaires,produit,0.0,901352.36
+2017-11-25,COMPTE_7120,Subventions reçues,produit,0.0,31027.57
+2017-12-01,COMPTE_6011,Achats matières premières,dépense,93608.13,0.0
+2017-12-01,COMPTE_7120,Subventions reçues,produit,0.0,32581.0
+2017-12-12,COMPTE_6200,Salaires,dépense,433221.98,0.0
+2017-12-13,COMPTE_6161,Assurances,dépense,16429.99,0.0
+2017-12-17,COMPTE_7111,Chiffre d affaires,produit,0.0,899656.3
+2017-12-19,COMPTE_6190,Formation du personnel,dépense,15485.72,0.0
+2017-12-19,COMPTE_6171,Transport et livraisons,dépense,20430.98,0.0
+2017-12-19,COMPTE_6141,Loyers,dépense,63385.89,0.0
+2017-12-21,COMPTE_6174,Téléphone et internet,dépense,11214.61,0.0
+2017-12-22,COMPTE_6210,Charges sociales CNSS,dépense,112163.12,0.0
+2017-12-23,COMPTE_6176,Honoraires consultants,dépense,40310.3,0.0
+2017-12-23,COMPTE_6165,Electricité et eau,dépense,33860.61,0.0
+2017-12-26,COMPTE_6185,Maintenance équipements,dépense,28973.7,0.0
+2017-12-27,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11031.05
+2017-12-28,COMPTE_6178,Fournitures de bureau,dépense,8370.1,0.0
+2018-01-08,COMPTE_7111,Chiffre d affaires,produit,0.0,1038146.83
+2018-01-09,COMPTE_6210,Charges sociales CNSS,dépense,124950.67,0.0
+2018-01-09,COMPTE_6174,Téléphone et internet,dépense,12031.2,0.0
+2018-01-11,COMPTE_6190,Formation du personnel,dépense,17870.38,0.0
+2018-01-13,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10264.88
+2018-01-14,COMPTE_6011,Achats matières premières,dépense,105259.68,0.0
+2018-01-14,COMPTE_6165,Electricité et eau,dépense,36938.81,0.0
+2018-01-15,COMPTE_6161,Assurances,dépense,17348.76,0.0
+2018-01-15,COMPTE_6178,Fournitures de bureau,dépense,8334.85,0.0
+2018-01-17,COMPTE_6171,Transport et livraisons,dépense,20183.92,0.0
+2018-01-18,COMPTE_6176,Honoraires consultants,dépense,44981.61,0.0
+2018-01-19,COMPTE_7120,Subventions reçues,produit,0.0,33383.19
+2018-01-21,COMPTE_6141,Loyers,dépense,63616.03,0.0
+2018-01-24,COMPTE_6185,Maintenance équipements,dépense,26795.89,0.0
+2018-01-27,COMPTE_6200,Salaires,dépense,439375.46,0.0
+2018-02-01,COMPTE_7111,Chiffre d affaires,produit,0.0,757536.09
+2018-02-03,COMPTE_6178,Fournitures de bureau,dépense,7216.26,0.0
+2018-02-06,COMPTE_6141,Loyers,dépense,51031.05,0.0
+2018-02-08,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7972.6
+2018-02-08,COMPTE_7120,Subventions reçues,produit,0.0,22518.55
+2018-02-09,COMPTE_6174,Téléphone et internet,dépense,9247.36,0.0
+2018-02-11,COMPTE_6165,Electricité et eau,dépense,31294.84,0.0
+2018-02-12,COMPTE_6161,Assurances,dépense,12777.1,0.0
+2018-02-14,COMPTE_6185,Maintenance équipements,dépense,20820.57,0.0
+2018-02-16,COMPTE_6200,Salaires,dépense,302742.95,0.0
+2018-02-16,COMPTE_6210,Charges sociales CNSS,dépense,95310.89,0.0
+2018-02-16,COMPTE_6011,Achats matières premières,dépense,82929.64,0.0
+2018-02-17,COMPTE_6176,Honoraires consultants,dépense,36511.04,0.0
+2018-02-20,COMPTE_6171,Transport et livraisons,dépense,17247.22,0.0
+2018-02-25,COMPTE_6190,Formation du personnel,dépense,14314.78,0.0
+2018-03-04,COMPTE_6176,Honoraires consultants,dépense,36729.96,0.0
+2018-03-07,COMPTE_6200,Salaires,dépense,328604.15,0.0
+2018-03-09,COMPTE_6210,Charges sociales CNSS,dépense,108150.42,0.0
+2018-03-10,COMPTE_6174,Téléphone et internet,dépense,9505.25,0.0
+2018-03-10,COMPTE_7120,Subventions reçues,produit,0.0,28559.54
+2018-03-11,COMPTE_6178,Fournitures de bureau,dépense,7497.54,0.0
+2018-03-14,COMPTE_6161,Assurances,dépense,14306.5,0.0
+2018-03-18,COMPTE_6141,Loyers,dépense,49024.83,0.0
+2018-03-18,COMPTE_6165,Electricité et eau,dépense,36482.71,0.0
+2018-03-18,COMPTE_6185,Maintenance équipements,dépense,22100.6,0.0
+2018-03-19,COMPTE_6011,Achats matières premières,dépense,90786.06,0.0
+2018-03-23,COMPTE_6171,Transport et livraisons,dépense,19375.83,0.0
+2018-03-23,COMPTE_6190,Formation du personnel,dépense,18023.44,0.0
+2018-03-25,COMPTE_7111,Chiffre d affaires,produit,0.0,907802.86
+2018-03-27,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10379.76
+2018-04-02,COMPTE_6165,Electricité et eau,dépense,26852.36,0.0
+2018-04-02,COMPTE_6200,Salaires,dépense,329084.39,0.0
+2018-04-05,COMPTE_6174,Téléphone et internet,dépense,8607.54,0.0
+2018-04-08,COMPTE_6011,Achats matières premières,dépense,83376.0,0.0
+2018-04-10,COMPTE_6141,Loyers,dépense,46571.65,0.0
+2018-04-10,COMPTE_6185,Maintenance équipements,dépense,20283.43,0.0
+2018-04-15,COMPTE_6190,Formation du personnel,dépense,14981.18,0.0
+2018-04-16,COMPTE_7120,Subventions reçues,produit,0.0,23479.28
+2018-04-18,COMPTE_6161,Assurances,dépense,11532.3,0.0
+2018-04-18,COMPTE_6171,Transport et livraisons,dépense,22206.09,0.0
+2018-04-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7536.02
+2018-04-25,COMPTE_6176,Honoraires consultants,dépense,39363.44,0.0
+2018-04-27,COMPTE_7111,Chiffre d affaires,produit,0.0,804588.19
+2018-04-28,COMPTE_6178,Fournitures de bureau,dépense,6677.68,0.0
+2018-04-28,COMPTE_6210,Charges sociales CNSS,dépense,88982.47,0.0
+2018-05-03,COMPTE_6161,Assurances,dépense,15625.34,0.0
+2018-05-03,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8190.56
+2018-05-04,COMPTE_6165,Electricité et eau,dépense,35415.24,0.0
+2018-05-05,COMPTE_6011,Achats matières premières,dépense,98873.56,0.0
+2018-05-07,COMPTE_7120,Subventions reçues,produit,0.0,25125.74
+2018-05-10,COMPTE_6185,Maintenance équipements,dépense,27205.26,0.0
+2018-05-14,COMPTE_6171,Transport et livraisons,dépense,20174.26,0.0
+2018-05-14,COMPTE_6190,Formation du personnel,dépense,17088.79,0.0
+2018-05-15,COMPTE_6178,Fournitures de bureau,dépense,6876.17,0.0
+2018-05-19,COMPTE_6141,Loyers,dépense,44355.01,0.0
+2018-05-20,COMPTE_6200,Salaires,dépense,331930.26,0.0
+2018-05-24,COMPTE_6210,Charges sociales CNSS,dépense,85107.58,0.0
+2018-05-25,COMPTE_6176,Honoraires consultants,dépense,39925.72,0.0
+2018-05-25,COMPTE_7111,Chiffre d affaires,produit,0.0,726866.03
+2018-05-26,COMPTE_6174,Téléphone et internet,dépense,9662.25,0.0
+2018-06-02,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7481.3
+2018-06-05,COMPTE_7111,Chiffre d affaires,produit,0.0,720834.84
+2018-06-06,COMPTE_6141,Loyers,dépense,47877.31,0.0
+2018-06-06,COMPTE_6011,Achats matières premières,dépense,79884.69,0.0
+2018-06-07,COMPTE_6200,Salaires,dépense,351442.11,0.0
+2018-06-08,COMPTE_6178,Fournitures de bureau,dépense,5659.55,0.0
+2018-06-08,COMPTE_6171,Transport et livraisons,dépense,17675.95,0.0
+2018-06-10,COMPTE_6174,Téléphone et internet,dépense,8338.55,0.0
+2018-06-15,COMPTE_6176,Honoraires consultants,dépense,38898.82,0.0
+2018-06-15,COMPTE_6161,Assurances,dépense,11141.26,0.0
+2018-06-16,COMPTE_6165,Electricité et eau,dépense,30999.24,0.0
+2018-06-18,COMPTE_6210,Charges sociales CNSS,dépense,91142.47,0.0
+2018-06-19,COMPTE_6190,Formation du personnel,dépense,15947.87,0.0
+2018-06-26,COMPTE_6185,Maintenance équipements,dépense,25978.19,0.0
+2018-06-27,COMPTE_7120,Subventions reçues,produit,0.0,29398.89
+2018-07-01,COMPTE_7120,Subventions reçues,produit,0.0,23549.84
+2018-07-03,COMPTE_6200,Salaires,dépense,271760.42,0.0
+2018-07-09,COMPTE_6174,Téléphone et internet,dépense,7574.78,0.0
+2018-07-10,COMPTE_6011,Achats matières premières,dépense,70209.59,0.0
+2018-07-10,COMPTE_6161,Assurances,dépense,11713.25,0.0
+2018-07-14,COMPTE_6185,Maintenance équipements,dépense,17408.11,0.0
+2018-07-15,COMPTE_6165,Electricité et eau,dépense,25234.8,0.0
+2018-07-16,COMPTE_6176,Honoraires consultants,dépense,32134.55,0.0
+2018-07-19,COMPTE_7111,Chiffre d affaires,produit,0.0,757892.25
+2018-07-20,COMPTE_6190,Formation du personnel,dépense,13756.27,0.0
+2018-07-20,COMPTE_6178,Fournitures de bureau,dépense,5585.32,0.0
+2018-07-22,COMPTE_6210,Charges sociales CNSS,dépense,75057.77,0.0
+2018-07-22,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8444.66
+2018-07-23,COMPTE_6171,Transport et livraisons,dépense,17459.31,0.0
+2018-07-27,COMPTE_6141,Loyers,dépense,42487.88,0.0
+2018-08-02,COMPTE_7120,Subventions reçues,produit,0.0,23288.04
+2018-08-03,COMPTE_6176,Honoraires consultants,dépense,30164.94,0.0
+2018-08-06,COMPTE_6190,Formation du personnel,dépense,10661.17,0.0
+2018-08-09,COMPTE_6165,Electricité et eau,dépense,25291.6,0.0
+2018-08-11,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,6818.33
+2018-08-14,COMPTE_6178,Fournitures de bureau,dépense,5308.61,0.0
+2018-08-17,COMPTE_6161,Assurances,dépense,9747.62,0.0
+2018-08-19,COMPTE_6171,Transport et livraisons,dépense,14065.96,0.0
+2018-08-19,COMPTE_6011,Achats matières premières,dépense,80521.55,0.0
+2018-08-22,COMPTE_6185,Maintenance équipements,dépense,18057.46,0.0
+2018-08-22,COMPTE_6210,Charges sociales CNSS,dépense,76791.48,0.0
+2018-08-23,COMPTE_6200,Salaires,dépense,262363.24,0.0
+2018-08-25,COMPTE_6141,Loyers,dépense,33517.26,0.0
+2018-08-27,COMPTE_6174,Téléphone et internet,dépense,7202.74,0.0
+2018-08-27,COMPTE_7111,Chiffre d affaires,produit,0.0,734545.62
+2018-09-01,COMPTE_7111,Chiffre d affaires,produit,0.0,846599.21
+2018-09-02,COMPTE_6185,Maintenance équipements,dépense,24514.21,0.0
+2018-09-04,COMPTE_6011,Achats matières premières,dépense,89230.12,0.0
+2018-09-07,COMPTE_6174,Téléphone et internet,dépense,9388.14,0.0
+2018-09-10,COMPTE_6200,Salaires,dépense,322710.62,0.0
+2018-09-13,COMPTE_6141,Loyers,dépense,58228.06,0.0
+2018-09-15,COMPTE_6171,Transport et livraisons,dépense,22673.86,0.0
+2018-09-18,COMPTE_6190,Formation du personnel,dépense,14464.11,0.0
+2018-09-20,COMPTE_6176,Honoraires consultants,dépense,39909.56,0.0
+2018-09-20,COMPTE_7120,Subventions reçues,produit,0.0,32374.11
+2018-09-21,COMPTE_6178,Fournitures de bureau,dépense,7571.7,0.0
+2018-09-22,COMPTE_6165,Electricité et eau,dépense,36401.63,0.0
+2018-09-23,COMPTE_6210,Charges sociales CNSS,dépense,99052.29,0.0
+2018-09-23,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9886.61
+2018-09-27,COMPTE_6161,Assurances,dépense,15726.78,0.0
+2018-10-05,COMPTE_7111,Chiffre d affaires,produit,0.0,893202.79
+2018-10-05,COMPTE_6200,Salaires,dépense,375231.58,0.0
+2018-10-08,COMPTE_6190,Formation du personnel,dépense,19028.23,0.0
+2018-10-09,COMPTE_7120,Subventions reçues,produit,0.0,32943.48
+2018-10-09,COMPTE_6178,Fournitures de bureau,dépense,7385.2,0.0
+2018-10-10,COMPTE_6176,Honoraires consultants,dépense,46976.91,0.0
+2018-10-14,COMPTE_6141,Loyers,dépense,45660.31,0.0
+2018-10-15,COMPTE_6165,Electricité et eau,dépense,37384.71,0.0
+2018-10-16,COMPTE_6185,Maintenance équipements,dépense,25473.38,0.0
+2018-10-16,COMPTE_6174,Téléphone et internet,dépense,11104.19,0.0
+2018-10-18,COMPTE_6011,Achats matières premières,dépense,90630.91,0.0
+2018-10-20,COMPTE_6210,Charges sociales CNSS,dépense,102039.39,0.0
+2018-10-21,COMPTE_6171,Transport et livraisons,dépense,24251.98,0.0
+2018-10-27,COMPTE_6161,Assurances,dépense,13037.75,0.0
+2018-10-28,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10281.45
+2018-11-05,COMPTE_6174,Téléphone et internet,dépense,10249.65,0.0
+2018-11-11,COMPTE_7120,Subventions reçues,produit,0.0,29430.55
+2018-11-11,COMPTE_6190,Formation du personnel,dépense,16707.54,0.0
+2018-11-13,COMPTE_6185,Maintenance équipements,dépense,28709.81,0.0
+2018-11-13,COMPTE_6210,Charges sociales CNSS,dépense,99218.78,0.0
+2018-11-16,COMPTE_6176,Honoraires consultants,dépense,41657.11,0.0
+2018-11-18,COMPTE_6178,Fournitures de bureau,dépense,7151.07,0.0
+2018-11-19,COMPTE_6165,Electricité et eau,dépense,31822.0,0.0
+2018-11-22,COMPTE_6171,Transport et livraisons,dépense,22294.85,0.0
+2018-11-23,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10387.19
+2018-11-23,COMPTE_6200,Salaires,dépense,429990.74,0.0
+2018-11-24,COMPTE_6161,Assurances,dépense,12863.64,0.0
+2018-11-25,COMPTE_7111,Chiffre d affaires,produit,0.0,834686.36
+2018-11-26,COMPTE_6011,Achats matières premières,dépense,100192.42,0.0
+2018-11-27,COMPTE_6141,Loyers,dépense,54558.35,0.0
+2018-12-03,COMPTE_6210,Charges sociales CNSS,dépense,131606.01,0.0
+2018-12-03,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10049.13
+2018-12-04,COMPTE_6176,Honoraires consultants,dépense,43073.78,0.0
+2018-12-05,COMPTE_6171,Transport et livraisons,dépense,26581.03,0.0
+2018-12-05,COMPTE_6190,Formation du personnel,dépense,15505.94,0.0
+2018-12-09,COMPTE_7111,Chiffre d affaires,produit,0.0,963103.46
+2018-12-13,COMPTE_6011,Achats matières premières,dépense,123823.04,0.0
+2018-12-15,COMPTE_6178,Fournitures de bureau,dépense,8937.21,0.0
+2018-12-15,COMPTE_6185,Maintenance équipements,dépense,25088.09,0.0
+2018-12-16,COMPTE_6165,Electricité et eau,dépense,41522.38,0.0
+2018-12-19,COMPTE_6174,Téléphone et internet,dépense,11023.57,0.0
+2018-12-21,COMPTE_6200,Salaires,dépense,403519.9,0.0
+2018-12-21,COMPTE_6161,Assurances,dépense,17621.03,0.0
+2018-12-22,COMPTE_6141,Loyers,dépense,56326.83,0.0
+2018-12-23,COMPTE_7120,Subventions reçues,produit,0.0,30830.82
+2019-01-01,COMPTE_7111,Chiffre d affaires,produit,0.0,1022221.54
+2019-01-03,COMPTE_6174,Téléphone et internet,dépense,9423.71,0.0
+2019-01-06,COMPTE_6210,Charges sociales CNSS,dépense,100893.6,0.0
+2019-01-08,COMPTE_6178,Fournitures de bureau,dépense,8994.01,0.0
+2019-01-11,COMPTE_6161,Assurances,dépense,15520.45,0.0
+2019-01-12,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8931.88
+2019-01-14,COMPTE_6185,Maintenance équipements,dépense,30433.71,0.0
+2019-01-18,COMPTE_6141,Loyers,dépense,60991.73,0.0
+2019-01-18,COMPTE_6171,Transport et livraisons,dépense,23100.17,0.0
+2019-01-22,COMPTE_6176,Honoraires consultants,dépense,41493.03,0.0
+2019-01-25,COMPTE_6190,Formation du personnel,dépense,20619.62,0.0
+2019-01-25,COMPTE_6165,Electricité et eau,dépense,37435.87,0.0
+2019-01-26,COMPTE_7120,Subventions reçues,produit,0.0,27814.27
+2019-01-28,COMPTE_6011,Achats matières premières,dépense,121033.38,0.0
+2019-01-28,COMPTE_6200,Salaires,dépense,428697.65,0.0
+2019-02-01,COMPTE_6190,Formation du personnel,dépense,13802.6,0.0
+2019-02-03,COMPTE_7111,Chiffre d affaires,produit,0.0,809155.59
+2019-02-05,COMPTE_6011,Achats matières premières,dépense,87044.19,0.0
+2019-02-06,COMPTE_6165,Electricité et eau,dépense,26932.48,0.0
+2019-02-10,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9757.27
+2019-02-12,COMPTE_7120,Subventions reçues,produit,0.0,26135.0
+2019-02-14,COMPTE_6141,Loyers,dépense,44205.65,0.0
+2019-02-15,COMPTE_6200,Salaires,dépense,381226.11,0.0
+2019-02-15,COMPTE_6185,Maintenance équipements,dépense,24376.42,0.0
+2019-02-15,COMPTE_6178,Fournitures de bureau,dépense,5890.52,0.0
+2019-02-19,COMPTE_6176,Honoraires consultants,dépense,34344.55,0.0
+2019-02-22,COMPTE_6210,Charges sociales CNSS,dépense,106093.88,0.0
+2019-02-22,COMPTE_6174,Téléphone et internet,dépense,8725.32,0.0
+2019-02-26,COMPTE_6161,Assurances,dépense,13563.05,0.0
+2019-02-28,COMPTE_6171,Transport et livraisons,dépense,16732.92,0.0
+2019-03-07,COMPTE_6161,Assurances,dépense,16222.79,0.0
+2019-03-08,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10186.25
+2019-03-08,COMPTE_6171,Transport et livraisons,dépense,21061.36,0.0
+2019-03-09,COMPTE_6185,Maintenance équipements,dépense,27100.12,0.0
+2019-03-10,COMPTE_7120,Subventions reçues,produit,0.0,32964.65
+2019-03-12,COMPTE_6174,Téléphone et internet,dépense,9640.24,0.0
+2019-03-14,COMPTE_6011,Achats matières premières,dépense,104126.49,0.0
+2019-03-15,COMPTE_6141,Loyers,dépense,55941.42,0.0
+2019-03-20,COMPTE_6210,Charges sociales CNSS,dépense,119534.75,0.0
+2019-03-23,COMPTE_6176,Honoraires consultants,dépense,42083.78,0.0
+2019-03-24,COMPTE_6200,Salaires,dépense,397296.02,0.0
+2019-03-27,COMPTE_6178,Fournitures de bureau,dépense,6843.3,0.0
+2019-03-27,COMPTE_7111,Chiffre d affaires,produit,0.0,946872.55
+2019-03-28,COMPTE_6190,Formation du personnel,dépense,14034.4,0.0
+2019-03-28,COMPTE_6165,Electricité et eau,dépense,37861.01,0.0
+2019-04-04,COMPTE_6174,Téléphone et internet,dépense,8482.64,0.0
+2019-04-05,COMPTE_7111,Chiffre d affaires,produit,0.0,758261.3
+2019-04-05,COMPTE_6190,Formation du personnel,dépense,15044.31,0.0
+2019-04-07,COMPTE_6141,Loyers,dépense,46151.35,0.0
+2019-04-09,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9042.93
+2019-04-10,COMPTE_6200,Salaires,dépense,314331.14,0.0
+2019-04-12,COMPTE_6011,Achats matières premières,dépense,98257.78,0.0
+2019-04-12,COMPTE_7120,Subventions reçues,produit,0.0,30406.71
+2019-04-14,COMPTE_6210,Charges sociales CNSS,dépense,94498.21,0.0
+2019-04-19,COMPTE_6185,Maintenance équipements,dépense,24202.57,0.0
+2019-04-21,COMPTE_6176,Honoraires consultants,dépense,43944.03,0.0
+2019-04-22,COMPTE_6161,Assurances,dépense,14507.74,0.0
+2019-04-25,COMPTE_6165,Electricité et eau,dépense,33764.47,0.0
+2019-04-26,COMPTE_6178,Fournitures de bureau,dépense,5984.53,0.0
+2019-04-27,COMPTE_6171,Transport et livraisons,dépense,21122.73,0.0
+2019-05-01,COMPTE_6210,Charges sociales CNSS,dépense,110540.0,0.0
+2019-05-03,COMPTE_6200,Salaires,dépense,371853.5,0.0
+2019-05-04,COMPTE_7111,Chiffre d affaires,produit,0.0,796256.43
+2019-05-05,COMPTE_6174,Téléphone et internet,dépense,11058.86,0.0
+2019-05-08,COMPTE_6176,Honoraires consultants,dépense,43032.6,0.0
+2019-05-09,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9821.93
+2019-05-09,COMPTE_6011,Achats matières premières,dépense,106731.06,0.0
+2019-05-10,COMPTE_6161,Assurances,dépense,16282.27,0.0
+2019-05-11,COMPTE_6165,Electricité et eau,dépense,34353.22,0.0
+2019-05-13,COMPTE_6185,Maintenance équipements,dépense,26447.8,0.0
+2019-05-15,COMPTE_6171,Transport et livraisons,dépense,22440.0,0.0
+2019-05-16,COMPTE_6141,Loyers,dépense,57793.63,0.0
+2019-05-22,COMPTE_7120,Subventions reçues,produit,0.0,28172.61
+2019-05-24,COMPTE_6178,Fournitures de bureau,dépense,7848.13,0.0
+2019-05-26,COMPTE_6190,Formation du personnel,dépense,18235.6,0.0
+2019-06-02,COMPTE_6200,Salaires,dépense,310078.76,0.0
+2019-06-03,COMPTE_6176,Honoraires consultants,dépense,34845.58,0.0
+2019-06-04,COMPTE_6190,Formation du personnel,dépense,15890.56,0.0
+2019-06-05,COMPTE_7120,Subventions reçues,produit,0.0,30315.39
+2019-06-08,COMPTE_6161,Assurances,dépense,11984.4,0.0
+2019-06-08,COMPTE_7111,Chiffre d affaires,produit,0.0,720964.49
+2019-06-10,COMPTE_6185,Maintenance équipements,dépense,26836.21,0.0
+2019-06-12,COMPTE_6141,Loyers,dépense,50920.02,0.0
+2019-06-12,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8400.86
+2019-06-15,COMPTE_6178,Fournitures de bureau,dépense,7009.29,0.0
+2019-06-16,COMPTE_6210,Charges sociales CNSS,dépense,91014.83,0.0
+2019-06-18,COMPTE_6171,Transport et livraisons,dépense,21809.34,0.0
+2019-06-20,COMPTE_6165,Electricité et eau,dépense,30158.9,0.0
+2019-06-20,COMPTE_6174,Téléphone et internet,dépense,8757.92,0.0
+2019-06-27,COMPTE_6011,Achats matières premières,dépense,94686.59,0.0
+2019-07-04,COMPTE_7120,Subventions reçues,produit,0.0,22199.79
+2019-07-09,COMPTE_6176,Honoraires consultants,dépense,37708.77,0.0
+2019-07-12,COMPTE_6178,Fournitures de bureau,dépense,5074.97,0.0
+2019-07-13,COMPTE_7111,Chiffre d affaires,produit,0.0,683727.94
+2019-07-14,COMPTE_6165,Electricité et eau,dépense,28468.07,0.0
+2019-07-14,COMPTE_6174,Téléphone et internet,dépense,8066.14,0.0
+2019-07-15,COMPTE_6185,Maintenance équipements,dépense,19167.55,0.0
+2019-07-18,COMPTE_6141,Loyers,dépense,45365.21,0.0
+2019-07-21,COMPTE_6210,Charges sociales CNSS,dépense,81355.87,0.0
+2019-07-22,COMPTE_6200,Salaires,dépense,292090.6,0.0
+2019-07-24,COMPTE_6161,Assurances,dépense,11611.28,0.0
+2019-07-24,COMPTE_6011,Achats matières premières,dépense,85058.72,0.0
+2019-07-27,COMPTE_6171,Transport et livraisons,dépense,17932.42,0.0
+2019-07-27,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8641.9
+2019-07-28,COMPTE_6190,Formation du personnel,dépense,15129.5,0.0
+2019-08-01,COMPTE_6161,Assurances,dépense,11526.41,0.0
+2019-08-05,COMPTE_6171,Transport et livraisons,dépense,14887.28,0.0
+2019-08-05,COMPTE_7111,Chiffre d affaires,produit,0.0,769580.07
+2019-08-07,COMPTE_6174,Téléphone et internet,dépense,8271.69,0.0
+2019-08-11,COMPTE_6165,Electricité et eau,dépense,21705.47,0.0
+2019-08-19,COMPTE_6178,Fournitures de bureau,dépense,5645.54,0.0
+2019-08-20,COMPTE_6200,Salaires,dépense,256404.02,0.0
+2019-08-21,COMPTE_6141,Loyers,dépense,36837.63,0.0
+2019-08-22,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,6468.04
+2019-08-22,COMPTE_6011,Achats matières premières,dépense,75125.38,0.0
+2019-08-25,COMPTE_6190,Formation du personnel,dépense,11539.22,0.0
+2019-08-25,COMPTE_6176,Honoraires consultants,dépense,27301.48,0.0
+2019-08-26,COMPTE_7120,Subventions reçues,produit,0.0,22670.25
+2019-08-28,COMPTE_6210,Charges sociales CNSS,dépense,67850.24,0.0
+2019-08-28,COMPTE_6185,Maintenance équipements,dépense,18032.25,0.0
+2019-09-01,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9812.56
+2019-09-03,COMPTE_6176,Honoraires consultants,dépense,36389.34,0.0
+2019-09-05,COMPTE_6171,Transport et livraisons,dépense,19677.99,0.0
+2019-09-05,COMPTE_6011,Achats matières premières,dépense,110949.04,0.0
+2019-09-06,COMPTE_6165,Electricité et eau,dépense,31187.14,0.0
+2019-09-15,COMPTE_7120,Subventions reçues,produit,0.0,29589.2
+2019-09-17,COMPTE_6190,Formation du personnel,dépense,14533.04,0.0
+2019-09-17,COMPTE_6174,Téléphone et internet,dépense,10720.86,0.0
+2019-09-19,COMPTE_6185,Maintenance équipements,dépense,24801.2,0.0
+2019-09-19,COMPTE_6161,Assurances,dépense,15971.98,0.0
+2019-09-20,COMPTE_6200,Salaires,dépense,344884.08,0.0
+2019-09-22,COMPTE_7111,Chiffre d affaires,produit,0.0,990155.7
+2019-09-25,COMPTE_6178,Fournitures de bureau,dépense,7239.24,0.0
+2019-09-26,COMPTE_6210,Charges sociales CNSS,dépense,90326.03,0.0
+2019-09-26,COMPTE_6141,Loyers,dépense,45217.92,0.0
+2019-10-03,COMPTE_6171,Transport et livraisons,dépense,19338.52,0.0
+2019-10-05,COMPTE_6174,Téléphone et internet,dépense,9913.15,0.0
+2019-10-09,COMPTE_6176,Honoraires consultants,dépense,37501.67,0.0
+2019-10-11,COMPTE_6185,Maintenance équipements,dépense,27497.2,0.0
+2019-10-14,COMPTE_6210,Charges sociales CNSS,dépense,109830.6,0.0
+2019-10-14,COMPTE_6141,Loyers,dépense,61216.27,0.0
+2019-10-15,COMPTE_6200,Salaires,dépense,397854.02,0.0
+2019-10-15,COMPTE_6165,Electricité et eau,dépense,36694.1,0.0
+2019-10-16,COMPTE_6161,Assurances,dépense,16259.77,0.0
+2019-10-16,COMPTE_6011,Achats matières premières,dépense,90922.89,0.0
+2019-10-19,COMPTE_6178,Fournitures de bureau,dépense,7923.28,0.0
+2019-10-20,COMPTE_6190,Formation du personnel,dépense,16631.75,0.0
+2019-10-21,COMPTE_7120,Subventions reçues,produit,0.0,27237.19
+2019-10-23,COMPTE_7111,Chiffre d affaires,produit,0.0,812892.27
+2019-10-25,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10302.23
+2019-11-05,COMPTE_6178,Fournitures de bureau,dépense,7484.0,0.0
+2019-11-05,COMPTE_7111,Chiffre d affaires,produit,0.0,904855.85
+2019-11-09,COMPTE_6176,Honoraires consultants,dépense,41434.71,0.0
+2019-11-14,COMPTE_6174,Téléphone et internet,dépense,9367.19,0.0
+2019-11-14,COMPTE_6200,Salaires,dépense,351476.58,0.0
+2019-11-14,COMPTE_6161,Assurances,dépense,17505.58,0.0
+2019-11-15,COMPTE_6165,Electricité et eau,dépense,33426.03,0.0
+2019-11-15,COMPTE_6141,Loyers,dépense,51622.09,0.0
+2019-11-16,COMPTE_6185,Maintenance équipements,dépense,29143.5,0.0
+2019-11-18,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11409.9
+2019-11-19,COMPTE_7120,Subventions reçues,produit,0.0,31890.34
+2019-11-24,COMPTE_6171,Transport et livraisons,dépense,21893.22,0.0
+2019-11-24,COMPTE_6210,Charges sociales CNSS,dépense,98129.54,0.0
+2019-11-27,COMPTE_6190,Formation du personnel,dépense,15281.05,0.0
+2019-11-28,COMPTE_6011,Achats matières premières,dépense,108266.07,0.0
+2019-12-04,COMPTE_6011,Achats matières premières,dépense,108401.63,0.0
+2019-12-04,COMPTE_6200,Salaires,dépense,437339.6,0.0
+2019-12-10,COMPTE_6171,Transport et livraisons,dépense,20936.58,0.0
+2019-12-12,COMPTE_6174,Téléphone et internet,dépense,11768.13,0.0
+2019-12-14,COMPTE_7111,Chiffre d affaires,produit,0.0,925190.51
+2019-12-17,COMPTE_6176,Honoraires consultants,dépense,41446.01,0.0
+2019-12-19,COMPTE_6210,Charges sociales CNSS,dépense,129039.55,0.0
+2019-12-20,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11779.12
+2019-12-22,COMPTE_6178,Fournitures de bureau,dépense,7614.69,0.0
+2019-12-24,COMPTE_6165,Electricité et eau,dépense,36761.99,0.0
+2019-12-25,COMPTE_6161,Assurances,dépense,17633.32,0.0
+2019-12-25,COMPTE_7120,Subventions reçues,produit,0.0,37079.16
+2019-12-28,COMPTE_6190,Formation du personnel,dépense,16604.47,0.0
+2019-12-28,COMPTE_6185,Maintenance équipements,dépense,29410.01,0.0
+2019-12-28,COMPTE_6141,Loyers,dépense,58861.71,0.0
+2020-01-01,COMPTE_6190,Formation du personnel,dépense,20026.1,0.0
+2020-01-05,COMPTE_6185,Maintenance équipements,dépense,28474.47,0.0
+2020-01-06,COMPTE_7111,Chiffre d affaires,produit,0.0,986586.78
+2020-01-09,COMPTE_6161,Assurances,dépense,18323.13,0.0
+2020-01-09,COMPTE_6165,Electricité et eau,dépense,32073.64,0.0
+2020-01-10,COMPTE_6171,Transport et livraisons,dépense,25472.16,0.0
+2020-01-12,COMPTE_6174,Téléphone et internet,dépense,12772.94,0.0
+2020-01-14,COMPTE_6210,Charges sociales CNSS,dépense,108579.66,0.0
+2020-01-17,COMPTE_6200,Salaires,dépense,374598.86,0.0
+2020-01-18,COMPTE_6011,Achats matières premières,dépense,119342.18,0.0
+2020-01-19,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10109.74
+2020-01-22,COMPTE_6141,Loyers,dépense,51498.31,0.0
+2020-01-22,COMPTE_6178,Fournitures de bureau,dépense,7385.62,0.0
+2020-01-24,COMPTE_7120,Subventions reçues,produit,0.0,32049.88
+2020-01-28,COMPTE_6176,Honoraires consultants,dépense,39772.02,0.0
+2020-02-02,COMPTE_6011,Achats matières premières,dépense,96373.98,0.0
+2020-02-07,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8290.79
+2020-02-07,COMPTE_7120,Subventions reçues,produit,0.0,23870.27
+2020-02-08,COMPTE_6210,Charges sociales CNSS,dépense,92441.05,0.0
+2020-02-10,COMPTE_6185,Maintenance équipements,dépense,23734.25,0.0
+2020-02-12,COMPTE_6178,Fournitures de bureau,dépense,6857.71,0.0
+2020-02-14,COMPTE_6174,Téléphone et internet,dépense,9667.89,0.0
+2020-02-15,COMPTE_6165,Electricité et eau,dépense,26982.78,0.0
+2020-02-16,COMPTE_6171,Transport et livraisons,dépense,20799.66,0.0
+2020-02-19,COMPTE_6190,Formation du personnel,dépense,16252.86,0.0
+2020-02-20,COMPTE_7111,Chiffre d affaires,produit,0.0,800530.56
+2020-02-22,COMPTE_6200,Salaires,dépense,351225.85,0.0
+2020-02-22,COMPTE_6161,Assurances,dépense,14261.97,0.0
+2020-02-25,COMPTE_6176,Honoraires consultants,dépense,35945.31,0.0
+2020-02-25,COMPTE_6141,Loyers,dépense,44466.06,0.0
+2020-03-01,COMPTE_6190,Formation du personnel,dépense,14710.6,0.0
+2020-03-03,COMPTE_6178,Fournitures de bureau,dépense,8245.29,0.0
+2020-03-03,COMPTE_6200,Salaires,dépense,385054.14,0.0
+2020-03-06,COMPTE_6165,Electricité et eau,dépense,36631.25,0.0
+2020-03-11,COMPTE_6141,Loyers,dépense,50790.01,0.0
+2020-03-13,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9128.71
+2020-03-13,COMPTE_7111,Chiffre d affaires,produit,0.0,894120.36
+2020-03-14,COMPTE_7120,Subventions reçues,produit,0.0,32363.77
+2020-03-16,COMPTE_6161,Assurances,dépense,13489.28,0.0
+2020-03-17,COMPTE_6174,Téléphone et internet,dépense,10985.58,0.0
+2020-03-18,COMPTE_6171,Transport et livraisons,dépense,19485.08,0.0
+2020-03-19,COMPTE_6210,Charges sociales CNSS,dépense,120178.03,0.0
+2020-03-22,COMPTE_6176,Honoraires consultants,dépense,43381.02,0.0
+2020-03-24,COMPTE_6185,Maintenance équipements,dépense,25968.58,0.0
+2020-03-25,COMPTE_6011,Achats matières premières,dépense,111833.61,0.0
+2020-04-03,COMPTE_6165,Electricité et eau,dépense,36570.24,0.0
+2020-04-03,COMPTE_6176,Honoraires consultants,dépense,39387.48,0.0
+2020-04-04,COMPTE_6171,Transport et livraisons,dépense,20483.56,0.0
+2020-04-06,COMPTE_6190,Formation du personnel,dépense,15426.71,0.0
+2020-04-08,COMPTE_6185,Maintenance équipements,dépense,27401.88,0.0
+2020-04-10,COMPTE_6178,Fournitures de bureau,dépense,6967.11,0.0
+2020-04-11,COMPTE_6011,Achats matières premières,dépense,84426.94,0.0
+2020-04-17,COMPTE_6210,Charges sociales CNSS,dépense,91285.63,0.0
+2020-04-19,COMPTE_6174,Téléphone et internet,dépense,9100.73,0.0
+2020-04-20,COMPTE_6141,Loyers,dépense,47061.53,0.0
+2020-04-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10555.69
+2020-04-21,COMPTE_6200,Salaires,dépense,324025.61,0.0
+2020-04-23,COMPTE_6161,Assurances,dépense,14326.42,0.0
+2020-04-24,COMPTE_7120,Subventions reçues,produit,0.0,27689.56
+2020-04-25,COMPTE_7111,Chiffre d affaires,produit,0.0,790108.87
+2020-05-02,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8825.75
+2020-05-06,COMPTE_6171,Transport et livraisons,dépense,22291.19,0.0
+2020-05-08,COMPTE_6011,Achats matières premières,dépense,110077.17,0.0
+2020-05-09,COMPTE_6141,Loyers,dépense,46899.52,0.0
+2020-05-15,COMPTE_7111,Chiffre d affaires,produit,0.0,772469.17
+2020-05-15,COMPTE_6210,Charges sociales CNSS,dépense,99496.36,0.0
+2020-05-19,COMPTE_6178,Fournitures de bureau,dépense,7476.11,0.0
+2020-05-19,COMPTE_6185,Maintenance équipements,dépense,25631.4,0.0
+2020-05-20,COMPTE_6161,Assurances,dépense,13446.79,0.0
+2020-05-20,COMPTE_6190,Formation du personnel,dépense,17275.39,0.0
+2020-05-21,COMPTE_6174,Téléphone et internet,dépense,11418.82,0.0
+2020-05-21,COMPTE_6200,Salaires,dépense,358542.72,0.0
+2020-05-25,COMPTE_6176,Honoraires consultants,dépense,41338.91,0.0
+2020-05-25,COMPTE_6165,Electricité et eau,dépense,29679.51,0.0
+2020-05-26,COMPTE_7120,Subventions reçues,produit,0.0,30745.91
+2020-06-02,COMPTE_6185,Maintenance équipements,dépense,26528.7,0.0
+2020-06-02,COMPTE_7111,Chiffre d affaires,produit,0.0,844246.16
+2020-06-03,COMPTE_6165,Electricité et eau,dépense,34640.69,0.0
+2020-06-03,COMPTE_6011,Achats matières premières,dépense,91393.84,0.0
+2020-06-07,COMPTE_6200,Salaires,dépense,367804.3,0.0
+2020-06-11,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10079.43
+2020-06-12,COMPTE_6161,Assurances,dépense,12113.93,0.0
+2020-06-15,COMPTE_6176,Honoraires consultants,dépense,39465.5,0.0
+2020-06-15,COMPTE_6141,Loyers,dépense,47754.06,0.0
+2020-06-16,COMPTE_6210,Charges sociales CNSS,dépense,94780.96,0.0
+2020-06-20,COMPTE_6174,Téléphone et internet,dépense,8388.65,0.0
+2020-06-26,COMPTE_6178,Fournitures de bureau,dépense,7144.36,0.0
+2020-06-26,COMPTE_6190,Formation du personnel,dépense,15515.25,0.0
+2020-06-26,COMPTE_7120,Subventions reçues,produit,0.0,27712.46
+2020-06-28,COMPTE_6171,Transport et livraisons,dépense,21132.61,0.0
+2020-07-02,COMPTE_6185,Maintenance équipements,dépense,22856.19,0.0
+2020-07-03,COMPTE_6011,Achats matières premières,dépense,95938.62,0.0
+2020-07-06,COMPTE_6141,Loyers,dépense,44430.55,0.0
+2020-07-09,COMPTE_7111,Chiffre d affaires,produit,0.0,714334.27
+2020-07-11,COMPTE_6200,Salaires,dépense,299868.57,0.0
+2020-07-11,COMPTE_6178,Fournitures de bureau,dépense,5945.89,0.0
+2020-07-12,COMPTE_6174,Téléphone et internet,dépense,7522.99,0.0
+2020-07-13,COMPTE_6176,Honoraires consultants,dépense,38836.9,0.0
+2020-07-15,COMPTE_6165,Electricité et eau,dépense,27092.49,0.0
+2020-07-20,COMPTE_6171,Transport et livraisons,dépense,17876.15,0.0
+2020-07-20,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8986.98
+2020-07-21,COMPTE_6190,Formation du personnel,dépense,15001.75,0.0
+2020-07-22,COMPTE_6210,Charges sociales CNSS,dépense,77078.88,0.0
+2020-07-22,COMPTE_7120,Subventions reçues,produit,0.0,26304.51
+2020-07-23,COMPTE_6161,Assurances,dépense,10620.98,0.0
+2020-08-10,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,6351.0
+2020-08-10,COMPTE_6176,Honoraires consultants,dépense,36747.89,0.0
+2020-08-11,COMPTE_6011,Achats matières premières,dépense,87713.29,0.0
+2020-08-12,COMPTE_6161,Assurances,dépense,10352.17,0.0
+2020-08-12,COMPTE_7120,Subventions reçues,produit,0.0,22666.91
+2020-08-13,COMPTE_6171,Transport et livraisons,dépense,17698.62,0.0
+2020-08-17,COMPTE_6210,Charges sociales CNSS,dépense,94910.53,0.0
+2020-08-21,COMPTE_6178,Fournitures de bureau,dépense,5855.3,0.0
+2020-08-21,COMPTE_6165,Electricité et eau,dépense,24504.72,0.0
+2020-08-22,COMPTE_6141,Loyers,dépense,36517.06,0.0
+2020-08-22,COMPTE_7111,Chiffre d affaires,produit,0.0,611112.98
+2020-08-23,COMPTE_6174,Téléphone et internet,dépense,7009.95,0.0
+2020-08-23,COMPTE_6190,Formation du personnel,dépense,11541.29,0.0
+2020-08-24,COMPTE_6200,Salaires,dépense,326266.3,0.0
+2020-08-27,COMPTE_6185,Maintenance équipements,dépense,22202.37,0.0
+2020-09-02,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10390.56
+2020-09-05,COMPTE_6165,Electricité et eau,dépense,39219.36,0.0
+2020-09-06,COMPTE_7120,Subventions reçues,produit,0.0,31589.5
+2020-09-06,COMPTE_6210,Charges sociales CNSS,dépense,97158.09,0.0
+2020-09-07,COMPTE_6011,Achats matières premières,dépense,93599.29,0.0
+2020-09-08,COMPTE_6161,Assurances,dépense,15162.29,0.0
+2020-09-11,COMPTE_6185,Maintenance équipements,dépense,23080.04,0.0
+2020-09-13,COMPTE_6200,Salaires,dépense,346619.3,0.0
+2020-09-17,COMPTE_6174,Téléphone et internet,dépense,11247.87,0.0
+2020-09-17,COMPTE_6178,Fournitures de bureau,dépense,8092.24,0.0
+2020-09-20,COMPTE_6190,Formation du personnel,dépense,18977.47,0.0
+2020-09-25,COMPTE_7111,Chiffre d affaires,produit,0.0,1004305.11
+2020-09-25,COMPTE_6141,Loyers,dépense,52207.6,0.0
+2020-09-27,COMPTE_6176,Honoraires consultants,dépense,46094.22,0.0
+2020-09-28,COMPTE_6171,Transport et livraisons,dépense,19142.93,0.0
+2020-10-06,COMPTE_6210,Charges sociales CNSS,dépense,114499.53,0.0
+2020-10-08,COMPTE_6171,Transport et livraisons,dépense,21135.17,0.0
+2020-10-10,COMPTE_6190,Formation du personnel,dépense,17658.64,0.0
+2020-10-15,COMPTE_6141,Loyers,dépense,61202.58,0.0
+2020-10-15,COMPTE_6165,Electricité et eau,dépense,38391.91,0.0
+2020-10-15,COMPTE_6185,Maintenance équipements,dépense,31837.55,0.0
+2020-10-17,COMPTE_6200,Salaires,dépense,442389.08,0.0
+2020-10-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9442.41
+2020-10-22,COMPTE_6178,Fournitures de bureau,dépense,7184.99,0.0
+2020-10-22,COMPTE_6011,Achats matières premières,dépense,105559.52,0.0
+2020-10-25,COMPTE_6161,Assurances,dépense,16479.2,0.0
+2020-10-26,COMPTE_6174,Téléphone et internet,dépense,10226.05,0.0
+2020-10-26,COMPTE_7111,Chiffre d affaires,produit,0.0,1047979.47
+2020-10-27,COMPTE_6176,Honoraires consultants,dépense,48469.99,0.0
+2020-10-28,COMPTE_7120,Subventions reçues,produit,0.0,32901.63
+2020-11-04,COMPTE_6141,Loyers,dépense,59420.6,0.0
+2020-11-06,COMPTE_6171,Transport et livraisons,dépense,20466.2,0.0
+2020-11-08,COMPTE_6178,Fournitures de bureau,dépense,7068.41,0.0
+2020-11-10,COMPTE_6165,Electricité et eau,dépense,40209.97,0.0
+2020-11-11,COMPTE_7120,Subventions reçues,produit,0.0,29795.91
+2020-11-12,COMPTE_6011,Achats matières premières,dépense,109788.98,0.0
+2020-11-12,COMPTE_7111,Chiffre d affaires,produit,0.0,1118959.65
+2020-11-12,COMPTE_6185,Maintenance équipements,dépense,31298.04,0.0
+2020-11-13,COMPTE_6210,Charges sociales CNSS,dépense,111256.7,0.0
+2020-11-14,COMPTE_6176,Honoraires consultants,dépense,40661.27,0.0
+2020-11-14,COMPTE_6190,Formation du personnel,dépense,20537.73,0.0
+2020-11-17,COMPTE_6200,Salaires,dépense,360024.77,0.0
+2020-11-17,COMPTE_6174,Téléphone et internet,dépense,10290.47,0.0
+2020-11-17,COMPTE_6161,Assurances,dépense,17269.95,0.0
+2020-11-27,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11736.95
+2020-12-02,COMPTE_7111,Chiffre d affaires,produit,0.0,981720.55
+2020-12-03,COMPTE_6176,Honoraires consultants,dépense,41488.75,0.0
+2020-12-04,COMPTE_6200,Salaires,dépense,449151.16,0.0
+2020-12-05,COMPTE_6141,Loyers,dépense,68115.62,0.0
+2020-12-07,COMPTE_6178,Fournitures de bureau,dépense,7385.04,0.0
+2020-12-08,COMPTE_6210,Charges sociales CNSS,dépense,134152.34,0.0
+2020-12-11,COMPTE_6011,Achats matières premières,dépense,125941.14,0.0
+2020-12-15,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,12117.86
+2020-12-18,COMPTE_6185,Maintenance équipements,dépense,33701.37,0.0
+2020-12-20,COMPTE_6174,Téléphone et internet,dépense,11722.35,0.0
+2020-12-20,COMPTE_6190,Formation du personnel,dépense,22061.74,0.0
+2020-12-21,COMPTE_7120,Subventions reçues,produit,0.0,32069.31
+2020-12-23,COMPTE_6171,Transport et livraisons,dépense,22340.88,0.0
+2020-12-27,COMPTE_6165,Electricité et eau,dépense,38653.92,0.0
+2020-12-27,COMPTE_6161,Assurances,dépense,14989.94,0.0
+2021-01-02,COMPTE_7120,Subventions reçues,produit,0.0,38363.98
+2021-01-03,COMPTE_6190,Formation du personnel,dépense,22071.1,0.0
+2021-01-08,COMPTE_6165,Electricité et eau,dépense,38818.24,0.0
+2021-01-10,COMPTE_6171,Transport et livraisons,dépense,26468.59,0.0
+2021-01-12,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11489.34
+2021-01-13,COMPTE_7111,Chiffre d affaires,produit,0.0,1051814.18
+2021-01-17,COMPTE_6185,Maintenance équipements,dépense,31892.1,0.0
+2021-01-17,COMPTE_6210,Charges sociales CNSS,dépense,123090.0,0.0
+2021-01-18,COMPTE_6200,Salaires,dépense,501666.92,0.0
+2021-01-19,COMPTE_6176,Honoraires consultants,dépense,46167.3,0.0
+2021-01-20,COMPTE_6174,Téléphone et internet,dépense,11480.99,0.0
+2021-01-20,COMPTE_6141,Loyers,dépense,69647.89,0.0
+2021-01-21,COMPTE_6161,Assurances,dépense,17436.58,0.0
+2021-01-22,COMPTE_6178,Fournitures de bureau,dépense,8341.85,0.0
+2021-01-27,COMPTE_6011,Achats matières premières,dépense,101915.18,0.0
+2021-02-01,COMPTE_6011,Achats matières premières,dépense,89738.61,0.0
+2021-02-03,COMPTE_6141,Loyers,dépense,49100.67,0.0
+2021-02-03,COMPTE_6210,Charges sociales CNSS,dépense,110941.37,0.0
+2021-02-04,COMPTE_6165,Electricité et eau,dépense,33424.43,0.0
+2021-02-05,COMPTE_6174,Téléphone et internet,dépense,10436.17,0.0
+2021-02-06,COMPTE_6200,Salaires,dépense,362450.45,0.0
+2021-02-07,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7871.85
+2021-02-07,COMPTE_7120,Subventions reçues,produit,0.0,24541.21
+2021-02-15,COMPTE_7111,Chiffre d affaires,produit,0.0,910415.56
+2021-02-18,COMPTE_6176,Honoraires consultants,dépense,34445.7,0.0
+2021-02-21,COMPTE_6178,Fournitures de bureau,dépense,6725.66,0.0
+2021-02-23,COMPTE_6190,Formation du personnel,dépense,16844.26,0.0
+2021-02-24,COMPTE_6171,Transport et livraisons,dépense,22191.36,0.0
+2021-02-24,COMPTE_6161,Assurances,dépense,13586.53,0.0
+2021-02-25,COMPTE_6185,Maintenance équipements,dépense,22635.37,0.0
+2021-03-02,COMPTE_6176,Honoraires consultants,dépense,48891.09,0.0
+2021-03-06,COMPTE_6210,Charges sociales CNSS,dépense,106724.87,0.0
+2021-03-09,COMPTE_6165,Electricité et eau,dépense,35735.44,0.0
+2021-03-11,COMPTE_6178,Fournitures de bureau,dépense,8669.28,0.0
+2021-03-11,COMPTE_6011,Achats matières premières,dépense,119495.45,0.0
+2021-03-12,COMPTE_6174,Téléphone et internet,dépense,9717.52,0.0
+2021-03-13,COMPTE_6190,Formation du personnel,dépense,16941.56,0.0
+2021-03-13,COMPTE_6200,Salaires,dépense,432630.5,0.0
+2021-03-16,COMPTE_7111,Chiffre d affaires,produit,0.0,943923.61
+2021-03-17,COMPTE_6141,Loyers,dépense,64071.64,0.0
+2021-03-21,COMPTE_6171,Transport et livraisons,dépense,19527.17,0.0
+2021-03-26,COMPTE_7120,Subventions reçues,produit,0.0,30246.43
+2021-03-26,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10138.29
+2021-03-26,COMPTE_6185,Maintenance équipements,dépense,25834.07,0.0
+2021-03-27,COMPTE_6161,Assurances,dépense,15269.11,0.0
+2021-04-03,COMPTE_7120,Subventions reçues,produit,0.0,34031.14
+2021-04-06,COMPTE_6161,Assurances,dépense,17227.94,0.0
+2021-04-09,COMPTE_6210,Charges sociales CNSS,dépense,122760.75,0.0
+2021-04-10,COMPTE_6174,Téléphone et internet,dépense,10692.41,0.0
+2021-04-11,COMPTE_6171,Transport et livraisons,dépense,19024.83,0.0
+2021-04-11,COMPTE_6165,Electricité et eau,dépense,34058.38,0.0
+2021-04-13,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10093.01
+2021-04-14,COMPTE_6011,Achats matières premières,dépense,89227.91,0.0
+2021-04-15,COMPTE_6185,Maintenance équipements,dépense,25955.75,0.0
+2021-04-20,COMPTE_6200,Salaires,dépense,431417.15,0.0
+2021-04-20,COMPTE_6141,Loyers,dépense,47178.62,0.0
+2021-04-23,COMPTE_6176,Honoraires consultants,dépense,41318.54,0.0
+2021-04-23,COMPTE_6178,Fournitures de bureau,dépense,7275.09,0.0
+2021-04-26,COMPTE_7111,Chiffre d affaires,produit,0.0,937656.71
+2021-04-28,COMPTE_6190,Formation du personnel,dépense,14493.47,0.0
+2021-05-02,COMPTE_6171,Transport et livraisons,dépense,23891.36,0.0
+2021-05-04,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9056.46
+2021-05-05,COMPTE_6210,Charges sociales CNSS,dépense,95108.28,0.0
+2021-05-05,COMPTE_6185,Maintenance équipements,dépense,23150.42,0.0
+2021-05-05,COMPTE_6161,Assurances,dépense,17378.3,0.0
+2021-05-06,COMPTE_6141,Loyers,dépense,59209.31,0.0
+2021-05-08,COMPTE_6174,Téléphone et internet,dépense,9237.39,0.0
+2021-05-09,COMPTE_7120,Subventions reçues,produit,0.0,28896.06
+2021-05-12,COMPTE_6176,Honoraires consultants,dépense,46419.48,0.0
+2021-05-12,COMPTE_6190,Formation du personnel,dépense,18056.52,0.0
+2021-05-13,COMPTE_7111,Chiffre d affaires,produit,0.0,926113.25
+2021-05-19,COMPTE_6178,Fournitures de bureau,dépense,7274.97,0.0
+2021-05-22,COMPTE_6165,Electricité et eau,dépense,37856.88,0.0
+2021-05-25,COMPTE_6200,Salaires,dépense,376641.06,0.0
+2021-05-26,COMPTE_6011,Achats matières premières,dépense,99773.67,0.0
+2021-06-03,COMPTE_6200,Salaires,dépense,366346.51,0.0
+2021-06-03,COMPTE_7120,Subventions reçues,produit,0.0,27768.02
+2021-06-04,COMPTE_6161,Assurances,dépense,16355.11,0.0
+2021-06-05,COMPTE_6178,Fournitures de bureau,dépense,6567.67,0.0
+2021-06-06,COMPTE_6011,Achats matières premières,dépense,84868.16,0.0
+2021-06-07,COMPTE_6171,Transport et livraisons,dépense,22234.5,0.0
+2021-06-09,COMPTE_6165,Electricité et eau,dépense,30262.75,0.0
+2021-06-10,COMPTE_6174,Téléphone et internet,dépense,11367.31,0.0
+2021-06-10,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9451.67
+2021-06-13,COMPTE_6141,Loyers,dépense,52364.98,0.0
+2021-06-15,COMPTE_6185,Maintenance équipements,dépense,28318.55,0.0
+2021-06-16,COMPTE_6176,Honoraires consultants,dépense,43110.83,0.0
+2021-06-22,COMPTE_7111,Chiffre d affaires,produit,0.0,1000433.9
+2021-06-23,COMPTE_6190,Formation du personnel,dépense,14695.68,0.0
+2021-06-28,COMPTE_6210,Charges sociales CNSS,dépense,113246.38,0.0
+2021-07-03,COMPTE_6200,Salaires,dépense,290147.2,0.0
+2021-07-04,COMPTE_6171,Transport et livraisons,dépense,18408.23,0.0
+2021-07-12,COMPTE_6165,Electricité et eau,dépense,25767.61,0.0
+2021-07-12,COMPTE_6185,Maintenance équipements,dépense,22803.67,0.0
+2021-07-12,COMPTE_6178,Fournitures de bureau,dépense,6312.66,0.0
+2021-07-13,COMPTE_6210,Charges sociales CNSS,dépense,78953.58,0.0
+2021-07-14,COMPTE_7120,Subventions reçues,produit,0.0,25336.79
+2021-07-18,COMPTE_6190,Formation du personnel,dépense,14140.37,0.0
+2021-07-21,COMPTE_6161,Assurances,dépense,14384.52,0.0
+2021-07-23,COMPTE_6141,Loyers,dépense,41183.85,0.0
+2021-07-24,COMPTE_7111,Chiffre d affaires,produit,0.0,879657.06
+2021-07-26,COMPTE_6174,Téléphone et internet,dépense,9931.83,0.0
+2021-07-26,COMPTE_6176,Honoraires consultants,dépense,31832.37,0.0
+2021-07-27,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8818.91
+2021-07-28,COMPTE_6011,Achats matières premières,dépense,96878.54,0.0
+2021-08-04,COMPTE_6190,Formation du personnel,dépense,11647.42,0.0
+2021-08-05,COMPTE_6011,Achats matières premières,dépense,83433.56,0.0
+2021-08-08,COMPTE_7111,Chiffre d affaires,produit,0.0,813903.37
+2021-08-10,COMPTE_6200,Salaires,dépense,308868.29,0.0
+2021-08-11,COMPTE_6210,Charges sociales CNSS,dépense,76844.49,0.0
+2021-08-12,COMPTE_6165,Electricité et eau,dépense,28332.4,0.0
+2021-08-14,COMPTE_6178,Fournitures de bureau,dépense,6784.56,0.0
+2021-08-15,COMPTE_6161,Assurances,dépense,10466.99,0.0
+2021-08-17,COMPTE_7120,Subventions reçues,produit,0.0,22891.37
+2021-08-21,COMPTE_6174,Téléphone et internet,dépense,8846.08,0.0
+2021-08-21,COMPTE_6141,Loyers,dépense,49322.04,0.0
+2021-08-25,COMPTE_6176,Honoraires consultants,dépense,34484.88,0.0
+2021-08-27,COMPTE_6171,Transport et livraisons,dépense,15353.29,0.0
+2021-08-28,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8589.91
+2021-08-28,COMPTE_6185,Maintenance équipements,dépense,21138.14,0.0
+2021-09-02,COMPTE_6200,Salaires,dépense,346152.06,0.0
+2021-09-07,COMPTE_6011,Achats matières premières,dépense,93568.77,0.0
+2021-09-18,COMPTE_6141,Loyers,dépense,58997.32,0.0
+2021-09-18,COMPTE_6165,Electricité et eau,dépense,33193.1,0.0
+2021-09-19,COMPTE_6174,Téléphone et internet,dépense,9645.33,0.0
+2021-09-19,COMPTE_6185,Maintenance équipements,dépense,26369.64,0.0
+2021-09-19,COMPTE_7120,Subventions reçues,produit,0.0,28767.14
+2021-09-20,COMPTE_6178,Fournitures de bureau,dépense,8103.73,0.0
+2021-09-21,COMPTE_6161,Assurances,dépense,14684.28,0.0
+2021-09-21,COMPTE_6171,Transport et livraisons,dépense,19913.69,0.0
+2021-09-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9827.76
+2021-09-21,COMPTE_7111,Chiffre d affaires,produit,0.0,966764.64
+2021-09-22,COMPTE_6176,Honoraires consultants,dépense,39524.99,0.0
+2021-09-25,COMPTE_6210,Charges sociales CNSS,dépense,127230.01,0.0
+2021-09-28,COMPTE_6190,Formation du personnel,dépense,15212.0,0.0
+2021-10-05,COMPTE_7111,Chiffre d affaires,produit,0.0,1131186.12
+2021-10-10,COMPTE_6171,Transport et livraisons,dépense,25078.61,0.0
+2021-10-11,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10755.31
+2021-10-12,COMPTE_6210,Charges sociales CNSS,dépense,134679.9,0.0
+2021-10-15,COMPTE_6176,Honoraires consultants,dépense,40100.39,0.0
+2021-10-15,COMPTE_6178,Fournitures de bureau,dépense,7976.83,0.0
+2021-10-16,COMPTE_6161,Assurances,dépense,18760.42,0.0
+2021-10-17,COMPTE_7120,Subventions reçues,produit,0.0,35580.58
+2021-10-20,COMPTE_6185,Maintenance équipements,dépense,26461.45,0.0
+2021-10-21,COMPTE_6011,Achats matières premières,dépense,96389.42,0.0
+2021-10-21,COMPTE_6141,Loyers,dépense,60212.19,0.0
+2021-10-23,COMPTE_6174,Téléphone et internet,dépense,11063.63,0.0
+2021-10-24,COMPTE_6200,Salaires,dépense,450070.94,0.0
+2021-10-26,COMPTE_6165,Electricité et eau,dépense,34131.21,0.0
+2021-10-28,COMPTE_6190,Formation du personnel,dépense,16504.5,0.0
+2021-11-02,COMPTE_6161,Assurances,dépense,14990.02,0.0
+2021-11-03,COMPTE_7111,Chiffre d affaires,produit,0.0,1007204.77
+2021-11-04,COMPTE_6011,Achats matières premières,dépense,105388.84,0.0
+2021-11-07,COMPTE_6185,Maintenance équipements,dépense,31529.5,0.0
+2021-11-08,COMPTE_6141,Loyers,dépense,56261.01,0.0
+2021-11-08,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10614.04
+2021-11-10,COMPTE_6210,Charges sociales CNSS,dépense,119571.49,0.0
+2021-11-13,COMPTE_6165,Electricité et eau,dépense,35263.58,0.0
+2021-11-14,COMPTE_6171,Transport et livraisons,dépense,26834.96,0.0
+2021-11-15,COMPTE_6200,Salaires,dépense,494071.96,0.0
+2021-11-16,COMPTE_6190,Formation du personnel,dépense,20301.27,0.0
+2021-11-17,COMPTE_7120,Subventions reçues,produit,0.0,38087.95
+2021-11-19,COMPTE_6178,Fournitures de bureau,dépense,7901.42,0.0
+2021-11-27,COMPTE_6176,Honoraires consultants,dépense,52717.41,0.0
+2021-11-28,COMPTE_6174,Téléphone et internet,dépense,10561.27,0.0
+2021-12-01,COMPTE_6171,Transport et livraisons,dépense,24253.98,0.0
+2021-12-02,COMPTE_6185,Maintenance équipements,dépense,30760.53,0.0
+2021-12-03,COMPTE_6210,Charges sociales CNSS,dépense,130206.32,0.0
+2021-12-09,COMPTE_6176,Honoraires consultants,dépense,44865.1,0.0
+2021-12-09,COMPTE_7120,Subventions reçues,produit,0.0,38855.56
+2021-12-10,COMPTE_6141,Loyers,dépense,56025.91,0.0
+2021-12-12,COMPTE_6200,Salaires,dépense,469345.56,0.0
+2021-12-12,COMPTE_6011,Achats matières premières,dépense,111940.1,0.0
+2021-12-14,COMPTE_6174,Téléphone et internet,dépense,13514.82,0.0
+2021-12-15,COMPTE_7111,Chiffre d affaires,produit,0.0,1043177.02
+2021-12-16,COMPTE_6165,Electricité et eau,dépense,42185.93,0.0
+2021-12-19,COMPTE_6190,Formation du personnel,dépense,19558.72,0.0
+2021-12-20,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,12644.28
+2021-12-25,COMPTE_6178,Fournitures de bureau,dépense,9537.36,0.0
+2021-12-27,COMPTE_6161,Assurances,dépense,17972.43,0.0
+2022-01-02,COMPTE_6178,Fournitures de bureau,dépense,7621.79,0.0
+2022-01-04,COMPTE_6011,Achats matières premières,dépense,127769.84,0.0
+2022-01-04,COMPTE_6141,Loyers,dépense,57021.4,0.0
+2022-01-05,COMPTE_6210,Charges sociales CNSS,dépense,141882.17,0.0
+2022-01-11,COMPTE_6185,Maintenance équipements,dépense,27955.93,0.0
+2022-01-13,COMPTE_7120,Subventions reçues,produit,0.0,33709.18
+2022-01-17,COMPTE_6190,Formation du personnel,dépense,21784.51,0.0
+2022-01-17,COMPTE_6176,Honoraires consultants,dépense,50046.59,0.0
+2022-01-18,COMPTE_6165,Electricité et eau,dépense,45758.94,0.0
+2022-01-20,COMPTE_6200,Salaires,dépense,450431.91,0.0
+2022-01-20,COMPTE_7111,Chiffre d affaires,produit,0.0,1014302.84
+2022-01-20,COMPTE_6174,Téléphone et internet,dépense,10827.45,0.0
+2022-01-24,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,13087.08
+2022-01-25,COMPTE_6171,Transport et livraisons,dépense,29048.08,0.0
+2022-01-26,COMPTE_6161,Assurances,dépense,17257.65,0.0
+2022-02-01,COMPTE_6190,Formation du personnel,dépense,17422.36,0.0
+2022-02-01,COMPTE_6171,Transport et livraisons,dépense,21044.29,0.0
+2022-02-09,COMPTE_6200,Salaires,dépense,387919.31,0.0
+2022-02-10,COMPTE_6165,Electricité et eau,dépense,35049.52,0.0
+2022-02-14,COMPTE_6176,Honoraires consultants,dépense,36401.2,0.0
+2022-02-16,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8155.59
+2022-02-16,COMPTE_6161,Assurances,dépense,14767.91,0.0
+2022-02-19,COMPTE_6011,Achats matières premières,dépense,110421.42,0.0
+2022-02-19,COMPTE_7111,Chiffre d affaires,produit,0.0,1008618.67
+2022-02-22,COMPTE_6174,Téléphone et internet,dépense,9617.56,0.0
+2022-02-24,COMPTE_7120,Subventions reçues,produit,0.0,30135.9
+2022-02-26,COMPTE_6178,Fournitures de bureau,dépense,7487.0,0.0
+2022-02-26,COMPTE_6210,Charges sociales CNSS,dépense,119532.59,0.0
+2022-02-27,COMPTE_6141,Loyers,dépense,50407.85,0.0
+2022-02-28,COMPTE_6185,Maintenance équipements,dépense,29016.33,0.0
+2022-03-01,COMPTE_6174,Téléphone et internet,dépense,9771.81,0.0
+2022-03-05,COMPTE_6161,Assurances,dépense,17940.75,0.0
+2022-03-07,COMPTE_7111,Chiffre d affaires,produit,0.0,870476.26
+2022-03-08,COMPTE_6165,Electricité et eau,dépense,39973.95,0.0
+2022-03-13,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10348.41
+2022-03-14,COMPTE_6176,Honoraires consultants,dépense,44763.94,0.0
+2022-03-16,COMPTE_6190,Formation du personnel,dépense,19731.66,0.0
+2022-03-17,COMPTE_6185,Maintenance équipements,dépense,26099.48,0.0
+2022-03-21,COMPTE_6011,Achats matières premières,dépense,99730.67,0.0
+2022-03-22,COMPTE_7120,Subventions reçues,produit,0.0,33144.56
+2022-03-23,COMPTE_6178,Fournitures de bureau,dépense,7228.26,0.0
+2022-03-23,COMPTE_6171,Transport et livraisons,dépense,20142.57,0.0
+2022-03-23,COMPTE_6210,Charges sociales CNSS,dépense,123783.27,0.0
+2022-03-24,COMPTE_6200,Salaires,dépense,463239.23,0.0
+2022-03-25,COMPTE_6141,Loyers,dépense,62477.73,0.0
+2022-04-06,COMPTE_6011,Achats matières premières,dépense,99510.86,0.0
+2022-04-07,COMPTE_6176,Honoraires consultants,dépense,44833.2,0.0
+2022-04-08,COMPTE_6185,Maintenance équipements,dépense,27755.38,0.0
+2022-04-09,COMPTE_6174,Téléphone et internet,dépense,11500.15,0.0
+2022-04-09,COMPTE_6178,Fournitures de bureau,dépense,8742.8,0.0
+2022-04-10,COMPTE_6190,Formation du personnel,dépense,19659.26,0.0
+2022-04-10,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10579.67
+2022-04-12,COMPTE_6161,Assurances,dépense,14766.82,0.0
+2022-04-16,COMPTE_7111,Chiffre d affaires,produit,0.0,926931.86
+2022-04-18,COMPTE_6141,Loyers,dépense,55124.77,0.0
+2022-04-21,COMPTE_6171,Transport et livraisons,dépense,23799.31,0.0
+2022-04-23,COMPTE_6210,Charges sociales CNSS,dépense,100668.55,0.0
+2022-04-23,COMPTE_6200,Salaires,dépense,429080.58,0.0
+2022-04-26,COMPTE_7120,Subventions reçues,produit,0.0,29593.87
+2022-04-28,COMPTE_6165,Electricité et eau,dépense,36551.85,0.0
+2022-05-02,COMPTE_7111,Chiffre d affaires,produit,0.0,874404.89
+2022-05-04,COMPTE_6200,Salaires,dépense,377006.1,0.0
+2022-05-07,COMPTE_6178,Fournitures de bureau,dépense,7792.54,0.0
+2022-05-08,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9285.67
+2022-05-09,COMPTE_6185,Maintenance équipements,dépense,30563.24,0.0
+2022-05-10,COMPTE_6165,Electricité et eau,dépense,38650.74,0.0
+2022-05-13,COMPTE_6141,Loyers,dépense,57653.48,0.0
+2022-05-15,COMPTE_6174,Téléphone et internet,dépense,9393.07,0.0
+2022-05-17,COMPTE_7120,Subventions reçues,produit,0.0,33231.04
+2022-05-19,COMPTE_6210,Charges sociales CNSS,dépense,116473.63,0.0
+2022-05-22,COMPTE_6011,Achats matières premières,dépense,95312.53,0.0
+2022-05-23,COMPTE_6190,Formation du personnel,dépense,20007.49,0.0
+2022-05-23,COMPTE_6171,Transport et livraisons,dépense,19638.75,0.0
+2022-05-24,COMPTE_6176,Honoraires consultants,dépense,46339.37,0.0
+2022-05-25,COMPTE_6161,Assurances,dépense,17320.06,0.0
+2022-06-02,COMPTE_7111,Chiffre d affaires,produit,0.0,962482.34
+2022-06-06,COMPTE_7120,Subventions reçues,produit,0.0,33797.75
+2022-06-06,COMPTE_6171,Transport et livraisons,dépense,24754.49,0.0
+2022-06-07,COMPTE_6176,Honoraires consultants,dépense,41813.19,0.0
+2022-06-10,COMPTE_6178,Fournitures de bureau,dépense,8029.89,0.0
+2022-06-14,COMPTE_6011,Achats matières premières,dépense,88512.28,0.0
+2022-06-16,COMPTE_6174,Téléphone et internet,dépense,9938.27,0.0
+2022-06-16,COMPTE_6141,Loyers,dépense,51370.34,0.0
+2022-06-18,COMPTE_6165,Electricité et eau,dépense,30015.54,0.0
+2022-06-19,COMPTE_6200,Salaires,dépense,337491.52,0.0
+2022-06-21,COMPTE_6185,Maintenance équipements,dépense,25041.94,0.0
+2022-06-24,COMPTE_6210,Charges sociales CNSS,dépense,98449.52,0.0
+2022-06-25,COMPTE_6190,Formation du personnel,dépense,14612.2,0.0
+2022-06-25,COMPTE_6161,Assurances,dépense,13233.26,0.0
+2022-06-27,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9385.36
+2022-07-02,COMPTE_6011,Achats matières premières,dépense,80876.17,0.0
+2022-07-02,COMPTE_6171,Transport et livraisons,dépense,21396.85,0.0
+2022-07-05,COMPTE_6190,Formation du personnel,dépense,16479.18,0.0
+2022-07-06,COMPTE_7111,Chiffre d affaires,produit,0.0,698639.18
+2022-07-06,COMPTE_6161,Assurances,dépense,14313.16,0.0
+2022-07-06,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7817.98
+2022-07-11,COMPTE_6176,Honoraires consultants,dépense,38027.5,0.0
+2022-07-13,COMPTE_6141,Loyers,dépense,54504.26,0.0
+2022-07-15,COMPTE_6200,Salaires,dépense,372801.63,0.0
+2022-07-16,COMPTE_6185,Maintenance équipements,dépense,23489.22,0.0
+2022-07-19,COMPTE_6174,Téléphone et internet,dépense,7640.06,0.0
+2022-07-21,COMPTE_7120,Subventions reçues,produit,0.0,28177.0
+2022-07-21,COMPTE_6178,Fournitures de bureau,dépense,6112.45,0.0
+2022-07-26,COMPTE_6210,Charges sociales CNSS,dépense,87413.23,0.0
+2022-07-28,COMPTE_6165,Electricité et eau,dépense,33377.56,0.0
+2022-08-06,COMPTE_6178,Fournitures de bureau,dépense,6462.7,0.0
+2022-08-07,COMPTE_6161,Assurances,dépense,13048.77,0.0
+2022-08-08,COMPTE_6190,Formation du personnel,dépense,13153.05,0.0
+2022-08-09,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8109.51
+2022-08-11,COMPTE_6011,Achats matières premières,dépense,72028.27,0.0
+2022-08-11,COMPTE_7111,Chiffre d affaires,produit,0.0,691993.13
+2022-08-13,COMPTE_6171,Transport et livraisons,dépense,18599.13,0.0
+2022-08-13,COMPTE_6200,Salaires,dépense,270474.45,0.0
+2022-08-13,COMPTE_6176,Honoraires consultants,dépense,32927.68,0.0
+2022-08-16,COMPTE_6185,Maintenance équipements,dépense,24977.69,0.0
+2022-08-17,COMPTE_6174,Téléphone et internet,dépense,9259.15,0.0
+2022-08-19,COMPTE_6141,Loyers,dépense,48533.96,0.0
+2022-08-24,COMPTE_7120,Subventions reçues,produit,0.0,23326.48
+2022-08-25,COMPTE_6210,Charges sociales CNSS,dépense,81282.91,0.0
+2022-08-28,COMPTE_6165,Electricité et eau,dépense,25071.96,0.0
+2022-09-05,COMPTE_6185,Maintenance équipements,dépense,26230.42,0.0
+2022-09-07,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10928.76
+2022-09-08,COMPTE_6178,Fournitures de bureau,dépense,7751.63,0.0
+2022-09-10,COMPTE_6176,Honoraires consultants,dépense,40339.69,0.0
+2022-09-10,COMPTE_6161,Assurances,dépense,14410.98,0.0
+2022-09-15,COMPTE_6190,Formation du personnel,dépense,18108.69,0.0
+2022-09-16,COMPTE_7111,Chiffre d affaires,produit,0.0,990923.25
+2022-09-20,COMPTE_6200,Salaires,dépense,447604.87,0.0
+2022-09-22,COMPTE_6165,Electricité et eau,dépense,32734.39,0.0
+2022-09-22,COMPTE_6141,Loyers,dépense,53954.99,0.0
+2022-09-23,COMPTE_6011,Achats matières premières,dépense,115772.44,0.0
+2022-09-23,COMPTE_6171,Transport et livraisons,dépense,23453.72,0.0
+2022-09-23,COMPTE_6174,Téléphone et internet,dépense,11962.9,0.0
+2022-09-23,COMPTE_6210,Charges sociales CNSS,dépense,111484.77,0.0
+2022-09-26,COMPTE_7120,Subventions reçues,produit,0.0,35063.03
+2022-10-02,COMPTE_7120,Subventions reçues,produit,0.0,33542.29
+2022-10-07,COMPTE_6200,Salaires,dépense,386228.93,0.0
+2022-10-11,COMPTE_6185,Maintenance équipements,dépense,26855.83,0.0
+2022-10-15,COMPTE_6190,Formation du personnel,dépense,21126.78,0.0
+2022-10-16,COMPTE_6210,Charges sociales CNSS,dépense,129295.89,0.0
+2022-10-17,COMPTE_7111,Chiffre d affaires,produit,0.0,897459.99
+2022-10-17,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10759.56
+2022-10-17,COMPTE_6161,Assurances,dépense,18519.9,0.0
+2022-10-17,COMPTE_6176,Honoraires consultants,dépense,48422.43,0.0
+2022-10-18,COMPTE_6178,Fournitures de bureau,dépense,7701.16,0.0
+2022-10-19,COMPTE_6171,Transport et livraisons,dépense,23533.96,0.0
+2022-10-22,COMPTE_6011,Achats matières premières,dépense,125048.0,0.0
+2022-10-23,COMPTE_6165,Electricité et eau,dépense,37581.86,0.0
+2022-10-27,COMPTE_6174,Téléphone et internet,dépense,10245.18,0.0
+2022-10-28,COMPTE_6141,Loyers,dépense,66070.77,0.0
+2022-11-01,COMPTE_6171,Transport et livraisons,dépense,23156.95,0.0
+2022-11-02,COMPTE_6185,Maintenance équipements,dépense,30930.91,0.0
+2022-11-03,COMPTE_6178,Fournitures de bureau,dépense,8208.95,0.0
+2022-11-03,COMPTE_6190,Formation du personnel,dépense,21978.1,0.0
+2022-11-05,COMPTE_7111,Chiffre d affaires,produit,0.0,941600.57
+2022-11-10,COMPTE_6161,Assurances,dépense,18259.77,0.0
+2022-11-13,COMPTE_6165,Electricité et eau,dépense,41491.17,0.0
+2022-11-14,COMPTE_6210,Charges sociales CNSS,dépense,106239.48,0.0
+2022-11-14,COMPTE_6176,Honoraires consultants,dépense,42381.75,0.0
+2022-11-14,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11596.64
+2022-11-15,COMPTE_6141,Loyers,dépense,54204.1,0.0
+2022-11-16,COMPTE_6200,Salaires,dépense,509230.15,0.0
+2022-11-19,COMPTE_6011,Achats matières premières,dépense,115052.81,0.0
+2022-11-19,COMPTE_6174,Téléphone et internet,dépense,12675.3,0.0
+2022-11-24,COMPTE_7120,Subventions reçues,produit,0.0,37488.86
+2022-12-04,COMPTE_6174,Téléphone et internet,dépense,14015.07,0.0
+2022-12-05,COMPTE_6178,Fournitures de bureau,dépense,8929.62,0.0
+2022-12-08,COMPTE_6185,Maintenance équipements,dépense,34973.75,0.0
+2022-12-08,COMPTE_7120,Subventions reçues,produit,0.0,35852.73
+2022-12-10,COMPTE_6200,Salaires,dépense,407983.7,0.0
+2022-12-12,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11002.31
+2022-12-13,COMPTE_6011,Achats matières premières,dépense,121716.55,0.0
+2022-12-13,COMPTE_6141,Loyers,dépense,65926.21,0.0
+2022-12-18,COMPTE_6176,Honoraires consultants,dépense,47056.47,0.0
+2022-12-18,COMPTE_7111,Chiffre d affaires,produit,0.0,1130880.3
+2022-12-21,COMPTE_6171,Transport et livraisons,dépense,27099.79,0.0
+2022-12-22,COMPTE_6161,Assurances,dépense,17906.1,0.0
+2022-12-24,COMPTE_6210,Charges sociales CNSS,dépense,130962.16,0.0
+2022-12-25,COMPTE_6190,Formation du personnel,dépense,22924.5,0.0
+2022-12-28,COMPTE_6165,Electricité et eau,dépense,47465.43,0.0
+2023-01-01,COMPTE_6171,Transport et livraisons,dépense,27409.5,0.0
+2023-01-02,COMPTE_6190,Formation du personnel,dépense,19029.84,0.0
+2023-01-02,COMPTE_7111,Chiffre d affaires,produit,0.0,1224467.46
+2023-01-02,COMPTE_6185,Maintenance équipements,dépense,34358.97,0.0
+2023-01-02,COMPTE_6176,Honoraires consultants,dépense,45351.46,0.0
+2023-01-02,COMPTE_6161,Assurances,dépense,19865.5,0.0
+2023-01-03,COMPTE_6174,Téléphone et internet,dépense,11538.57,0.0
+2023-01-07,COMPTE_6011,Achats matières premières,dépense,112174.64,0.0
+2023-01-08,COMPTE_6200,Salaires,dépense,457228.92,0.0
+2023-01-10,COMPTE_7120,Subventions reçues,produit,0.0,32827.1
+2023-01-14,COMPTE_6165,Electricité et eau,dépense,45042.64,0.0
+2023-01-22,COMPTE_6178,Fournitures de bureau,dépense,8979.76,0.0
+2023-01-24,COMPTE_6141,Loyers,dépense,74932.22,0.0
+2023-01-24,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10836.85
+2023-01-25,COMPTE_6210,Charges sociales CNSS,dépense,132570.66,0.0
+2023-02-05,COMPTE_6165,Electricité et eau,dépense,32023.14,0.0
+2023-02-08,COMPTE_6161,Assurances,dépense,16651.82,0.0
+2023-02-10,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9460.26
+2023-02-10,COMPTE_6174,Téléphone et internet,dépense,9471.01,0.0
+2023-02-12,COMPTE_6200,Salaires,dépense,388608.79,0.0
+2023-02-14,COMPTE_7120,Subventions reçues,produit,0.0,28746.86
+2023-02-17,COMPTE_6171,Transport et livraisons,dépense,25077.27,0.0
+2023-02-17,COMPTE_7111,Chiffre d affaires,produit,0.0,879483.91
+2023-02-18,COMPTE_6190,Formation du personnel,dépense,17936.91,0.0
+2023-02-18,COMPTE_6176,Honoraires consultants,dépense,39689.17,0.0
+2023-02-19,COMPTE_6011,Achats matières premières,dépense,105720.03,0.0
+2023-02-21,COMPTE_6185,Maintenance équipements,dépense,30055.16,0.0
+2023-02-22,COMPTE_6141,Loyers,dépense,56327.42,0.0
+2023-02-22,COMPTE_6210,Charges sociales CNSS,dépense,122561.07,0.0
+2023-02-24,COMPTE_6178,Fournitures de bureau,dépense,8553.65,0.0
+2023-03-02,COMPTE_6171,Transport et livraisons,dépense,26411.2,0.0
+2023-03-03,COMPTE_6200,Salaires,dépense,474868.54,0.0
+2023-03-05,COMPTE_6176,Honoraires consultants,dépense,47848.43,0.0
+2023-03-05,COMPTE_6165,Electricité et eau,dépense,41668.5,0.0
+2023-03-08,COMPTE_6141,Loyers,dépense,61168.17,0.0
+2023-03-09,COMPTE_6178,Fournitures de bureau,dépense,8053.87,0.0
+2023-03-09,COMPTE_7111,Chiffre d affaires,produit,0.0,914401.64
+2023-03-10,COMPTE_6161,Assurances,dépense,18560.68,0.0
+2023-03-14,COMPTE_6174,Téléphone et internet,dépense,11637.81,0.0
+2023-03-15,COMPTE_6190,Formation du personnel,dépense,16439.94,0.0
+2023-03-20,COMPTE_7120,Subventions reçues,produit,0.0,32361.85
+2023-03-21,COMPTE_6185,Maintenance équipements,dépense,26936.48,0.0
+2023-03-25,COMPTE_6011,Achats matières premières,dépense,110006.04,0.0
+2023-03-27,COMPTE_6210,Charges sociales CNSS,dépense,120894.77,0.0
+2023-03-28,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11083.99
+2023-04-01,COMPTE_6174,Téléphone et internet,dépense,12371.71,0.0
+2023-04-04,COMPTE_6178,Fournitures de bureau,dépense,9036.11,0.0
+2023-04-07,COMPTE_6161,Assurances,dépense,16822.96,0.0
+2023-04-07,COMPTE_6176,Honoraires consultants,dépense,40926.7,0.0
+2023-04-08,COMPTE_6210,Charges sociales CNSS,dépense,103821.44,0.0
+2023-04-08,COMPTE_6190,Formation du personnel,dépense,17806.68,0.0
+2023-04-10,COMPTE_6171,Transport et livraisons,dépense,25853.41,0.0
+2023-04-12,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10343.37
+2023-04-15,COMPTE_7120,Subventions reçues,produit,0.0,29917.37
+2023-04-23,COMPTE_6200,Salaires,dépense,433638.56,0.0
+2023-04-24,COMPTE_6141,Loyers,dépense,62122.11,0.0
+2023-04-25,COMPTE_6185,Maintenance équipements,dépense,30245.64,0.0
+2023-04-25,COMPTE_7111,Chiffre d affaires,produit,0.0,974998.84
+2023-04-26,COMPTE_6011,Achats matières premières,dépense,94855.68,0.0
+2023-04-28,COMPTE_6165,Electricité et eau,dépense,35618.45,0.0
+2023-05-01,COMPTE_6185,Maintenance équipements,dépense,30802.06,0.0
+2023-05-02,COMPTE_6176,Honoraires consultants,dépense,43131.39,0.0
+2023-05-07,COMPTE_6210,Charges sociales CNSS,dépense,109058.9,0.0
+2023-05-08,COMPTE_6178,Fournitures de bureau,dépense,8246.56,0.0
+2023-05-08,COMPTE_7120,Subventions reçues,produit,0.0,33323.38
+2023-05-11,COMPTE_6171,Transport et livraisons,dépense,25345.35,0.0
+2023-05-12,COMPTE_6174,Téléphone et internet,dépense,12477.02,0.0
+2023-05-12,COMPTE_6011,Achats matières premières,dépense,104597.84,0.0
+2023-05-13,COMPTE_7111,Chiffre d affaires,produit,0.0,929221.23
+2023-05-14,COMPTE_6200,Salaires,dépense,427711.58,0.0
+2023-05-16,COMPTE_6165,Electricité et eau,dépense,41835.44,0.0
+2023-05-16,COMPTE_6141,Loyers,dépense,58977.9,0.0
+2023-05-19,COMPTE_6190,Formation du personnel,dépense,16966.6,0.0
+2023-05-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10442.61
+2023-05-26,COMPTE_6161,Assurances,dépense,16153.56,0.0
+2023-06-02,COMPTE_6185,Maintenance équipements,dépense,31333.19,0.0
+2023-06-05,COMPTE_7111,Chiffre d affaires,produit,0.0,793303.39
+2023-06-05,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8645.41
+2023-06-06,COMPTE_6174,Téléphone et internet,dépense,11487.52,0.0
+2023-06-08,COMPTE_7120,Subventions reçues,produit,0.0,34229.78
+2023-06-11,COMPTE_6011,Achats matières premières,dépense,119576.44,0.0
+2023-06-16,COMPTE_6165,Electricité et eau,dépense,36242.59,0.0
+2023-06-18,COMPTE_6176,Honoraires consultants,dépense,38762.21,0.0
+2023-06-18,COMPTE_6178,Fournitures de bureau,dépense,7670.94,0.0
+2023-06-24,COMPTE_6161,Assurances,dépense,15467.02,0.0
+2023-06-24,COMPTE_6171,Transport et livraisons,dépense,22086.17,0.0
+2023-06-25,COMPTE_6210,Charges sociales CNSS,dépense,116078.87,0.0
+2023-06-27,COMPTE_6190,Formation du personnel,dépense,17507.26,0.0
+2023-06-27,COMPTE_6141,Loyers,dépense,51804.41,0.0
+2023-06-27,COMPTE_6200,Salaires,dépense,438636.11,0.0
+2023-07-01,COMPTE_6171,Transport et livraisons,dépense,20519.83,0.0
+2023-07-01,COMPTE_6176,Honoraires consultants,dépense,37067.13,0.0
+2023-07-02,COMPTE_6141,Loyers,dépense,48313.87,0.0
+2023-07-04,COMPTE_7111,Chiffre d affaires,produit,0.0,719797.62
+2023-07-06,COMPTE_6210,Charges sociales CNSS,dépense,105726.05,0.0
+2023-07-08,COMPTE_7120,Subventions reçues,produit,0.0,27398.98
+2023-07-09,COMPTE_6178,Fournitures de bureau,dépense,6805.13,0.0
+2023-07-10,COMPTE_6185,Maintenance équipements,dépense,24192.63,0.0
+2023-07-14,COMPTE_6200,Salaires,dépense,368825.98,0.0
+2023-07-16,COMPTE_6165,Electricité et eau,dépense,34429.53,0.0
+2023-07-17,COMPTE_6011,Achats matières premières,dépense,78861.62,0.0
+2023-07-17,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7899.57
+2023-07-18,COMPTE_6174,Téléphone et internet,dépense,7879.15,0.0
+2023-07-22,COMPTE_6161,Assurances,dépense,14080.77,0.0
+2023-07-27,COMPTE_6190,Formation du personnel,dépense,13025.53,0.0
+2023-08-02,COMPTE_6200,Salaires,dépense,332860.76,0.0
+2023-08-03,COMPTE_6185,Maintenance équipements,dépense,24282.39,0.0
+2023-08-08,COMPTE_6171,Transport et livraisons,dépense,21142.79,0.0
+2023-08-08,COMPTE_6165,Electricité et eau,dépense,28319.32,0.0
+2023-08-12,COMPTE_6011,Achats matières premières,dépense,80575.14,0.0
+2023-08-13,COMPTE_6161,Assurances,dépense,11183.43,0.0
+2023-08-13,COMPTE_6190,Formation du personnel,dépense,13928.62,0.0
+2023-08-13,COMPTE_6141,Loyers,dépense,42863.5,0.0
+2023-08-16,COMPTE_7111,Chiffre d affaires,produit,0.0,692286.78
+2023-08-19,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8890.88
+2023-08-21,COMPTE_6176,Honoraires consultants,dépense,39580.27,0.0
+2023-08-21,COMPTE_7120,Subventions reçues,produit,0.0,28252.13
+2023-08-21,COMPTE_6178,Fournitures de bureau,dépense,7285.26,0.0
+2023-08-23,COMPTE_6210,Charges sociales CNSS,dépense,94874.8,0.0
+2023-08-27,COMPTE_6174,Téléphone et internet,dépense,8181.69,0.0
+2023-09-02,COMPTE_6141,Loyers,dépense,67643.09,0.0
+2023-09-02,COMPTE_6171,Transport et livraisons,dépense,24014.19,0.0
+2023-09-02,COMPTE_6178,Fournitures de bureau,dépense,8491.56,0.0
+2023-09-03,COMPTE_7111,Chiffre d affaires,produit,0.0,977244.72
+2023-09-04,COMPTE_6011,Achats matières premières,dépense,130599.03,0.0
+2023-09-07,COMPTE_6190,Formation du personnel,dépense,17768.8,0.0
+2023-09-18,COMPTE_6176,Honoraires consultants,dépense,53045.85,0.0
+2023-09-19,COMPTE_7120,Subventions reçues,produit,0.0,31576.71
+2023-09-19,COMPTE_6165,Electricité et eau,dépense,39802.85,0.0
+2023-09-22,COMPTE_6174,Téléphone et internet,dépense,12877.68,0.0
+2023-09-25,COMPTE_6200,Salaires,dépense,441309.75,0.0
+2023-09-27,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9914.87
+2023-09-27,COMPTE_6210,Charges sociales CNSS,dépense,131123.92,0.0
+2023-09-28,COMPTE_6185,Maintenance équipements,dépense,26723.75,0.0
+2023-09-28,COMPTE_6161,Assurances,dépense,15438.02,0.0
+2023-10-03,COMPTE_6178,Fournitures de bureau,dépense,8028.12,0.0
+2023-10-11,COMPTE_6141,Loyers,dépense,70897.16,0.0
+2023-10-12,COMPTE_7120,Subventions reçues,produit,0.0,35100.77
+2023-10-12,COMPTE_6174,Téléphone et internet,dépense,12849.29,0.0
+2023-10-13,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11443.23
+2023-10-14,COMPTE_6176,Honoraires consultants,dépense,42681.85,0.0
+2023-10-15,COMPTE_7111,Chiffre d affaires,produit,0.0,984190.0
+2023-10-17,COMPTE_6171,Transport et livraisons,dépense,27048.36,0.0
+2023-10-20,COMPTE_6190,Formation du personnel,dépense,20385.35,0.0
+2023-10-21,COMPTE_6210,Charges sociales CNSS,dépense,118784.87,0.0
+2023-10-22,COMPTE_6011,Achats matières premières,dépense,132226.38,0.0
+2023-10-23,COMPTE_6165,Electricité et eau,dépense,35165.62,0.0
+2023-10-24,COMPTE_6161,Assurances,dépense,16986.71,0.0
+2023-10-25,COMPTE_6200,Salaires,dépense,436597.56,0.0
+2023-10-25,COMPTE_6185,Maintenance équipements,dépense,29494.66,0.0
+2023-11-03,COMPTE_6171,Transport et livraisons,dépense,27454.57,0.0
+2023-11-04,COMPTE_6185,Maintenance équipements,dépense,29804.65,0.0
+2023-11-04,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11511.6
+2023-11-05,COMPTE_6210,Charges sociales CNSS,dépense,118777.72,0.0
+2023-11-08,COMPTE_6165,Electricité et eau,dépense,37676.71,0.0
+2023-11-10,COMPTE_6190,Formation du personnel,dépense,17610.9,0.0
+2023-11-13,COMPTE_6141,Loyers,dépense,66173.99,0.0
+2023-11-13,COMPTE_6174,Téléphone et internet,dépense,11337.38,0.0
+2023-11-13,COMPTE_6178,Fournitures de bureau,dépense,7966.45,0.0
+2023-11-14,COMPTE_7111,Chiffre d affaires,produit,0.0,942078.6
+2023-11-18,COMPTE_7120,Subventions reçues,produit,0.0,35289.97
+2023-11-20,COMPTE_6161,Assurances,dépense,15692.69,0.0
+2023-11-21,COMPTE_6176,Honoraires consultants,dépense,53362.33,0.0
+2023-11-22,COMPTE_6011,Achats matières premières,dépense,119364.58,0.0
+2023-11-25,COMPTE_6200,Salaires,dépense,451146.24,0.0
+2023-12-01,COMPTE_6165,Electricité et eau,dépense,47700.84,0.0
+2023-12-03,COMPTE_7120,Subventions reçues,produit,0.0,38218.34
+2023-12-05,COMPTE_6200,Salaires,dépense,457370.19,0.0
+2023-12-06,COMPTE_6185,Maintenance équipements,dépense,35670.66,0.0
+2023-12-06,COMPTE_6178,Fournitures de bureau,dépense,9728.79,0.0
+2023-12-08,COMPTE_6176,Honoraires consultants,dépense,60229.52,0.0
+2023-12-08,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11776.05
+2023-12-10,COMPTE_6190,Formation du personnel,dépense,19174.08,0.0
+2023-12-10,COMPTE_7111,Chiffre d affaires,produit,0.0,1074572.42
+2023-12-11,COMPTE_6161,Assurances,dépense,19764.73,0.0
+2023-12-12,COMPTE_6011,Achats matières premières,dépense,112004.63,0.0
+2023-12-13,COMPTE_6171,Transport et livraisons,dépense,25921.5,0.0
+2023-12-14,COMPTE_6210,Charges sociales CNSS,dépense,118793.06,0.0
+2023-12-20,COMPTE_6141,Loyers,dépense,70244.3,0.0
+2023-12-24,COMPTE_6174,Téléphone et internet,dépense,14149.45,0.0
+2024-01-05,COMPTE_6161,Assurances,dépense,18735.13,0.0
+2024-01-07,COMPTE_6141,Loyers,dépense,70232.37,0.0
+2024-01-10,COMPTE_7120,Subventions reçues,produit,0.0,43286.44
+2024-01-11,COMPTE_6176,Honoraires consultants,dépense,50413.07,0.0
+2024-01-11,COMPTE_6190,Formation du personnel,dépense,18932.08,0.0
+2024-01-11,COMPTE_6210,Charges sociales CNSS,dépense,122977.33,0.0
+2024-01-13,COMPTE_6165,Electricité et eau,dépense,40013.16,0.0
+2024-01-13,COMPTE_7111,Chiffre d affaires,produit,0.0,1028397.01
+2024-01-16,COMPTE_6011,Achats matières premières,dépense,137580.8,0.0
+2024-01-20,COMPTE_6171,Transport et livraisons,dépense,25948.65,0.0
+2024-01-20,COMPTE_6185,Maintenance équipements,dépense,36997.84,0.0
+2024-01-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,12999.69
+2024-01-23,COMPTE_6200,Salaires,dépense,500800.77,0.0
+2024-01-27,COMPTE_6178,Fournitures de bureau,dépense,9215.7,0.0
+2024-01-28,COMPTE_6174,Téléphone et internet,dépense,12438.07,0.0
+2024-02-05,COMPTE_7120,Subventions reçues,produit,0.0,32976.85
+2024-02-08,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10433.29
+2024-02-11,COMPTE_6141,Loyers,dépense,61203.54,0.0
+2024-02-12,COMPTE_6165,Electricité et eau,dépense,38123.2,0.0
+2024-02-14,COMPTE_7111,Chiffre d affaires,produit,0.0,1023919.58
+2024-02-18,COMPTE_6174,Téléphone et internet,dépense,9699.05,0.0
+2024-02-19,COMPTE_6171,Transport et livraisons,dépense,19957.4,0.0
+2024-02-19,COMPTE_6011,Achats matières premières,dépense,106302.44,0.0
+2024-02-23,COMPTE_6185,Maintenance équipements,dépense,27270.37,0.0
+2024-02-23,COMPTE_6200,Salaires,dépense,376159.62,0.0
+2024-02-24,COMPTE_6178,Fournitures de bureau,dépense,7891.65,0.0
+2024-02-25,COMPTE_6176,Honoraires consultants,dépense,39675.6,0.0
+2024-02-26,COMPTE_6190,Formation du personnel,dépense,16026.78,0.0
+2024-02-27,COMPTE_6161,Assurances,dépense,15092.15,0.0
+2024-02-28,COMPTE_6210,Charges sociales CNSS,dépense,97180.66,0.0
+2024-03-02,COMPTE_7120,Subventions reçues,produit,0.0,36178.06
+2024-03-04,COMPTE_6200,Salaires,dépense,498658.57,0.0
+2024-03-05,COMPTE_6011,Achats matières premières,dépense,109069.03,0.0
+2024-03-06,COMPTE_7111,Chiffre d affaires,produit,0.0,1090859.79
+2024-03-12,COMPTE_6178,Fournitures de bureau,dépense,7399.0,0.0
+2024-03-15,COMPTE_6161,Assurances,dépense,16685.66,0.0
+2024-03-16,COMPTE_6165,Electricité et eau,dépense,44520.93,0.0
+2024-03-18,COMPTE_6176,Honoraires consultants,dépense,51299.94,0.0
+2024-03-18,COMPTE_6171,Transport et livraisons,dépense,25563.55,0.0
+2024-03-21,COMPTE_6190,Formation du personnel,dépense,19618.84,0.0
+2024-03-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11298.3
+2024-03-22,COMPTE_6210,Charges sociales CNSS,dépense,133306.97,0.0
+2024-03-26,COMPTE_6185,Maintenance équipements,dépense,32336.47,0.0
+2024-03-26,COMPTE_6141,Loyers,dépense,66397.29,0.0
+2024-03-28,COMPTE_6174,Téléphone et internet,dépense,11804.37,0.0
+2024-04-03,COMPTE_7120,Subventions reçues,produit,0.0,37163.42
+2024-04-04,COMPTE_6165,Electricité et eau,dépense,32590.71,0.0
+2024-04-11,COMPTE_6141,Loyers,dépense,67718.57,0.0
+2024-04-12,COMPTE_6178,Fournitures de bureau,dépense,7499.08,0.0
+2024-04-12,COMPTE_6200,Salaires,dépense,422459.02,0.0
+2024-04-13,COMPTE_6011,Achats matières premières,dépense,118173.7,0.0
+2024-04-14,COMPTE_7111,Chiffre d affaires,produit,0.0,872551.16
+2024-04-14,COMPTE_6161,Assurances,dépense,18805.3,0.0
+2024-04-16,COMPTE_6210,Charges sociales CNSS,dépense,135021.03,0.0
+2024-04-17,COMPTE_6171,Transport et livraisons,dépense,22040.29,0.0
+2024-04-18,COMPTE_6174,Téléphone et internet,dépense,12050.91,0.0
+2024-04-19,COMPTE_6176,Honoraires consultants,dépense,47315.98,0.0
+2024-04-23,COMPTE_6190,Formation du personnel,dépense,19475.46,0.0
+2024-04-24,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9343.71
+2024-04-25,COMPTE_6185,Maintenance équipements,dépense,28091.56,0.0
+2024-05-01,COMPTE_6178,Fournitures de bureau,dépense,8875.53,0.0
+2024-05-03,COMPTE_6174,Téléphone et internet,dépense,11281.14,0.0
+2024-05-04,COMPTE_6165,Electricité et eau,dépense,35983.51,0.0
+2024-05-06,COMPTE_6210,Charges sociales CNSS,dépense,110623.56,0.0
+2024-05-10,COMPTE_6011,Achats matières premières,dépense,102141.56,0.0
+2024-05-11,COMPTE_7111,Chiffre d affaires,produit,0.0,1025525.7
+2024-05-13,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9904.73
+2024-05-15,COMPTE_7120,Subventions reçues,produit,0.0,34264.35
+2024-05-16,COMPTE_6161,Assurances,dépense,15349.97,0.0
+2024-05-21,COMPTE_6185,Maintenance équipements,dépense,32723.7,0.0
+2024-05-23,COMPTE_6171,Transport et livraisons,dépense,23785.63,0.0
+2024-05-24,COMPTE_6200,Salaires,dépense,387464.29,0.0
+2024-05-26,COMPTE_6141,Loyers,dépense,57735.52,0.0
+2024-05-26,COMPTE_6176,Honoraires consultants,dépense,44300.29,0.0
+2024-05-26,COMPTE_6190,Formation du personnel,dépense,16640.59,0.0
+2024-06-06,COMPTE_6011,Achats matières premières,dépense,113070.7,0.0
+2024-06-07,COMPTE_6165,Electricité et eau,dépense,37078.46,0.0
+2024-06-09,COMPTE_6176,Honoraires consultants,dépense,40979.66,0.0
+2024-06-11,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11674.94
+2024-06-12,COMPTE_6200,Salaires,dépense,414262.34,0.0
+2024-06-14,COMPTE_6141,Loyers,dépense,60046.23,0.0
+2024-06-14,COMPTE_6171,Transport et livraisons,dépense,22698.55,0.0
+2024-06-15,COMPTE_6210,Charges sociales CNSS,dépense,108006.6,0.0
+2024-06-17,COMPTE_7120,Subventions reçues,produit,0.0,35492.4
+2024-06-19,COMPTE_6185,Maintenance équipements,dépense,30670.26,0.0
+2024-06-22,COMPTE_7111,Chiffre d affaires,produit,0.0,849084.29
+2024-06-23,COMPTE_6174,Téléphone et internet,dépense,10520.45,0.0
+2024-06-24,COMPTE_6161,Assurances,dépense,15503.64,0.0
+2024-06-26,COMPTE_6178,Fournitures de bureau,dépense,8539.4,0.0
+2024-06-28,COMPTE_6190,Formation du personnel,dépense,15783.95,0.0
+2024-07-04,COMPTE_6185,Maintenance équipements,dépense,22748.08,0.0
+2024-07-04,COMPTE_6178,Fournitures de bureau,dépense,6192.48,0.0
+2024-07-04,COMPTE_6141,Loyers,dépense,48862.36,0.0
+2024-07-05,COMPTE_6210,Charges sociales CNSS,dépense,97408.66,0.0
+2024-07-06,COMPTE_6165,Electricité et eau,dépense,31018.84,0.0
+2024-07-13,COMPTE_6200,Salaires,dépense,320410.01,0.0
+2024-07-14,COMPTE_7111,Chiffre d affaires,produit,0.0,860384.79
+2024-07-20,COMPTE_6174,Téléphone et internet,dépense,10397.08,0.0
+2024-07-20,COMPTE_6011,Achats matières premières,dépense,98144.43,0.0
+2024-07-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9076.65
+2024-07-21,COMPTE_7120,Subventions reçues,produit,0.0,25405.62
+2024-07-22,COMPTE_6176,Honoraires consultants,dépense,40332.27,0.0
+2024-07-23,COMPTE_6171,Transport et livraisons,dépense,22096.88,0.0
+2024-07-23,COMPTE_6190,Formation du personnel,dépense,14214.38,0.0
+2024-07-28,COMPTE_6161,Assurances,dépense,13385.14,0.0
+2024-08-01,COMPTE_7111,Chiffre d affaires,produit,0.0,692842.54
+2024-08-01,COMPTE_6174,Téléphone et internet,dépense,8596.42,0.0
+2024-08-06,COMPTE_6161,Assurances,dépense,12363.79,0.0
+2024-08-06,COMPTE_6011,Achats matières premières,dépense,101357.75,0.0
+2024-08-06,COMPTE_6210,Charges sociales CNSS,dépense,92400.89,0.0
+2024-08-07,COMPTE_6176,Honoraires consultants,dépense,36789.34,0.0
+2024-08-08,COMPTE_7120,Subventions reçues,produit,0.0,28743.38
+2024-08-09,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,7921.07
+2024-08-15,COMPTE_6165,Electricité et eau,dépense,27923.25,0.0
+2024-08-16,COMPTE_6185,Maintenance équipements,dépense,23269.9,0.0
+2024-08-16,COMPTE_6190,Formation du personnel,dépense,14380.99,0.0
+2024-08-16,COMPTE_6141,Loyers,dépense,48302.83,0.0
+2024-08-18,COMPTE_6178,Fournitures de bureau,dépense,7166.33,0.0
+2024-08-27,COMPTE_6200,Salaires,dépense,329366.95,0.0
+2024-08-28,COMPTE_6171,Transport et livraisons,dépense,19688.92,0.0
+2024-09-02,COMPTE_7120,Subventions reçues,produit,0.0,38546.15
+2024-09-04,COMPTE_6200,Salaires,dépense,508687.6,0.0
+2024-09-07,COMPTE_6190,Formation du personnel,dépense,19062.68,0.0
+2024-09-10,COMPTE_6011,Achats matières premières,dépense,108085.14,0.0
+2024-09-10,COMPTE_7111,Chiffre d affaires,produit,0.0,1117882.09
+2024-09-12,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10920.79
+2024-09-12,COMPTE_6176,Honoraires consultants,dépense,49137.32,0.0
+2024-09-15,COMPTE_6141,Loyers,dépense,56161.86,0.0
+2024-09-18,COMPTE_6165,Electricité et eau,dépense,41903.94,0.0
+2024-09-19,COMPTE_6171,Transport et livraisons,dépense,25028.88,0.0
+2024-09-21,COMPTE_6210,Charges sociales CNSS,dépense,132087.04,0.0
+2024-09-24,COMPTE_6185,Maintenance équipements,dépense,26298.84,0.0
+2024-09-25,COMPTE_6174,Téléphone et internet,dépense,10417.49,0.0
+2024-09-25,COMPTE_6161,Assurances,dépense,17666.22,0.0
+2024-09-25,COMPTE_6178,Fournitures de bureau,dépense,8701.59,0.0
+2024-10-03,COMPTE_6011,Achats matières premières,dépense,136830.8,0.0
+2024-10-04,COMPTE_6141,Loyers,dépense,64145.65,0.0
+2024-10-06,COMPTE_6210,Charges sociales CNSS,dépense,132983.02,0.0
+2024-10-06,COMPTE_6176,Honoraires consultants,dépense,52844.22,0.0
+2024-10-07,COMPTE_6185,Maintenance équipements,dépense,29132.48,0.0
+2024-10-08,COMPTE_6161,Assurances,dépense,19650.81,0.0
+2024-10-09,COMPTE_6200,Salaires,dépense,443844.87,0.0
+2024-10-12,COMPTE_6171,Transport et livraisons,dépense,26825.39,0.0
+2024-10-19,COMPTE_7120,Subventions reçues,produit,0.0,34041.79
+2024-10-19,COMPTE_6190,Formation du personnel,dépense,22190.7,0.0
+2024-10-20,COMPTE_6174,Téléphone et internet,dépense,13678.82,0.0
+2024-10-23,COMPTE_7111,Chiffre d affaires,produit,0.0,1031387.64
+2024-10-24,COMPTE_6165,Electricité et eau,dépense,37117.44,0.0
+2024-10-26,COMPTE_6178,Fournitures de bureau,dépense,9316.09,0.0
+2024-10-28,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10805.24
+2024-11-02,COMPTE_6165,Electricité et eau,dépense,40297.35,0.0
+2024-11-03,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,13175.94
+2024-11-05,COMPTE_6141,Loyers,dépense,72818.51,0.0
+2024-11-08,COMPTE_6176,Honoraires consultants,dépense,57426.71,0.0
+2024-11-11,COMPTE_6178,Fournitures de bureau,dépense,8193.31,0.0
+2024-11-13,COMPTE_6190,Formation du personnel,dépense,22830.83,0.0
+2024-11-15,COMPTE_7111,Chiffre d affaires,produit,0.0,1080267.83
+2024-11-19,COMPTE_6200,Salaires,dépense,471591.91,0.0
+2024-11-21,COMPTE_6210,Charges sociales CNSS,dépense,136803.94,0.0
+2024-11-22,COMPTE_6011,Achats matières premières,dépense,126207.43,0.0
+2024-11-23,COMPTE_6174,Téléphone et internet,dépense,13154.12,0.0
+2024-11-25,COMPTE_6185,Maintenance équipements,dépense,35729.94,0.0
+2024-11-26,COMPTE_7120,Subventions reçues,produit,0.0,32253.32
+2024-11-26,COMPTE_6161,Assurances,dépense,21045.61,0.0
+2024-11-28,COMPTE_6171,Transport et livraisons,dépense,30542.89,0.0
+2024-12-01,COMPTE_6165,Electricité et eau,dépense,42053.98,0.0
+2024-12-07,COMPTE_6190,Formation du personnel,dépense,22405.02,0.0
+2024-12-09,COMPTE_6210,Charges sociales CNSS,dépense,128789.39,0.0
+2024-12-10,COMPTE_7111,Chiffre d affaires,produit,0.0,1124869.14
+2024-12-12,COMPTE_6178,Fournitures de bureau,dépense,10304.41,0.0
+2024-12-12,COMPTE_6141,Loyers,dépense,66537.58,0.0
+2024-12-16,COMPTE_6161,Assurances,dépense,19530.89,0.0
+2024-12-19,COMPTE_7120,Subventions reçues,produit,0.0,37672.53
+2024-12-24,COMPTE_6174,Téléphone et internet,dépense,14404.02,0.0
+2024-12-24,COMPTE_6011,Achats matières premières,dépense,130715.95,0.0
+2024-12-27,COMPTE_6200,Salaires,dépense,578065.5,0.0
+2024-12-28,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11267.67
+2025-01-01,COMPTE_6176,Honoraires consultants,dépense,53775.8,0.0
+2025-01-04,COMPTE_6161,Assurances,dépense,16901.42,0.0
+2025-01-04,COMPTE_6171,Transport et livraisons,dépense,27810.64,0.0
+2025-01-09,COMPTE_6210,Charges sociales CNSS,dépense,157266.1,0.0
+2025-01-11,COMPTE_6011,Achats matières premières,dépense,132355.25,0.0
+2025-01-12,COMPTE_7111,Chiffre d affaires,produit,0.0,1029896.34
+2025-01-12,COMPTE_7120,Subventions reçues,produit,0.0,36172.07
+2025-01-21,COMPTE_6190,Formation du personnel,dépense,24585.31,0.0
+2025-01-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,13129.5
+2025-01-23,COMPTE_6185,Maintenance équipements,dépense,31335.21,0.0
+2025-01-25,COMPTE_6141,Loyers,dépense,78702.18,0.0
+2025-01-27,COMPTE_6165,Electricité et eau,dépense,45449.7,0.0
+2025-01-28,COMPTE_6200,Salaires,dépense,470731.29,0.0
+2025-02-01,COMPTE_6171,Transport et livraisons,dépense,24677.16,0.0
+2025-02-03,COMPTE_6174,Téléphone et internet,dépense,10037.84,0.0
+2025-02-03,COMPTE_6165,Electricité et eau,dépense,35407.96,0.0
+2025-02-04,COMPTE_6190,Formation du personnel,dépense,17239.17,0.0
+2025-02-08,COMPTE_6176,Honoraires consultants,dépense,40237.21,0.0
+2025-02-08,COMPTE_6161,Assurances,dépense,17116.29,0.0
+2025-02-11,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9103.21
+2025-02-13,COMPTE_6011,Achats matières premières,dépense,98800.39,0.0
+2025-02-13,COMPTE_7111,Chiffre d affaires,produit,0.0,844239.79
+2025-02-14,COMPTE_6200,Salaires,dépense,473986.83,0.0
+2025-02-15,COMPTE_6178,Fournitures de bureau,dépense,8057.13,0.0
+2025-02-16,COMPTE_6210,Charges sociales CNSS,dépense,121681.37,0.0
+2025-02-23,COMPTE_6185,Maintenance équipements,dépense,24239.59,0.0
+2025-02-24,COMPTE_6141,Loyers,dépense,60330.79,0.0
+2025-02-26,COMPTE_7120,Subventions reçues,produit,0.0,28320.62
+2025-03-04,COMPTE_7111,Chiffre d affaires,produit,0.0,955336.22
+2025-03-04,COMPTE_6210,Charges sociales CNSS,dépense,116311.22,0.0
+2025-03-05,COMPTE_6185,Maintenance équipements,dépense,32623.13,0.0
+2025-03-07,COMPTE_6178,Fournitures de bureau,dépense,8458.34,0.0
+2025-03-10,COMPTE_6011,Achats matières premières,dépense,116557.39,0.0
+2025-03-13,COMPTE_7120,Subventions reçues,produit,0.0,36659.34
+2025-03-14,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10915.18
+2025-03-15,COMPTE_6176,Honoraires consultants,dépense,52229.4,0.0
+2025-03-17,COMPTE_6171,Transport et livraisons,dépense,22949.97,0.0
+2025-03-20,COMPTE_6174,Téléphone et internet,dépense,12368.47,0.0
+2025-03-20,COMPTE_6190,Formation du personnel,dépense,22510.36,0.0
+2025-03-22,COMPTE_6165,Electricité et eau,dépense,35583.52,0.0
+2025-03-25,COMPTE_6141,Loyers,dépense,57264.58,0.0
+2025-03-28,COMPTE_6161,Assurances,dépense,19528.09,0.0
+2025-03-28,COMPTE_6200,Salaires,dépense,482535.98,0.0
+2025-04-01,COMPTE_6174,Téléphone et internet,dépense,13090.36,0.0
+2025-04-02,COMPTE_6200,Salaires,dépense,408505.97,0.0
+2025-04-05,COMPTE_6011,Achats matières premières,dépense,109166.99,0.0
+2025-04-07,COMPTE_6178,Fournitures de bureau,dépense,9382.69,0.0
+2025-04-08,COMPTE_7120,Subventions reçues,produit,0.0,32836.03
+2025-04-13,COMPTE_6190,Formation du personnel,dépense,17261.55,0.0
+2025-04-16,COMPTE_7111,Chiffre d affaires,produit,0.0,1159129.48
+2025-04-17,COMPTE_6185,Maintenance équipements,dépense,30079.32,0.0
+2025-04-18,COMPTE_6161,Assurances,dépense,14879.67,0.0
+2025-04-20,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10878.64
+2025-04-21,COMPTE_6141,Loyers,dépense,56569.36,0.0
+2025-04-22,COMPTE_6176,Honoraires consultants,dépense,52567.9,0.0
+2025-04-24,COMPTE_6165,Electricité et eau,dépense,39233.81,0.0
+2025-04-25,COMPTE_6171,Transport et livraisons,dépense,25270.16,0.0
+2025-04-26,COMPTE_6210,Charges sociales CNSS,dépense,131345.4,0.0
+2025-05-01,COMPTE_6011,Achats matières premières,dépense,102737.15,0.0
+2025-05-02,COMPTE_6190,Formation du personnel,dépense,17764.65,0.0
+2025-05-09,COMPTE_6185,Maintenance équipements,dépense,26558.94,0.0
+2025-05-11,COMPTE_6141,Loyers,dépense,71541.95,0.0
+2025-05-13,COMPTE_6200,Salaires,dépense,503655.25,0.0
+2025-05-14,COMPTE_6165,Electricité et eau,dépense,42791.48,0.0
+2025-05-16,COMPTE_6174,Téléphone et internet,dépense,10633.67,0.0
+2025-05-19,COMPTE_6178,Fournitures de bureau,dépense,7498.88,0.0
+2025-05-21,COMPTE_6210,Charges sociales CNSS,dépense,123705.65,0.0
+2025-05-21,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,10772.25
+2025-05-22,COMPTE_6171,Transport et livraisons,dépense,23961.42,0.0
+2025-05-23,COMPTE_7120,Subventions reçues,produit,0.0,33800.15
+2025-05-25,COMPTE_7111,Chiffre d affaires,produit,0.0,1106765.79
+2025-05-25,COMPTE_6176,Honoraires consultants,dépense,55171.38,0.0
+2025-05-28,COMPTE_6161,Assurances,dépense,15425.57,0.0
+2025-06-03,COMPTE_6141,Loyers,dépense,53178.52,0.0
+2025-06-03,COMPTE_6178,Fournitures de bureau,dépense,8623.3,0.0
+2025-06-08,COMPTE_6200,Salaires,dépense,389044.2,0.0
+2025-06-10,COMPTE_7120,Subventions reçues,produit,0.0,34056.79
+2025-06-11,COMPTE_6171,Transport et livraisons,dépense,21290.62,0.0
+2025-06-14,COMPTE_6210,Charges sociales CNSS,dépense,102834.12,0.0
+2025-06-14,COMPTE_6185,Maintenance équipements,dépense,27369.6,0.0
+2025-06-17,COMPTE_6161,Assurances,dépense,15549.61,0.0
+2025-06-20,COMPTE_7111,Chiffre d affaires,produit,0.0,875417.14
+2025-06-20,COMPTE_6011,Achats matières premières,dépense,113362.03,0.0
+2025-06-21,COMPTE_6174,Téléphone et internet,dépense,10845.63,0.0
+2025-06-21,COMPTE_6176,Honoraires consultants,dépense,49818.08,0.0
+2025-06-22,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11079.42
+2025-06-26,COMPTE_6165,Electricité et eau,dépense,41601.99,0.0
+2025-06-28,COMPTE_6190,Formation du personnel,dépense,19742.92,0.0
+2025-07-01,COMPTE_6190,Formation du personnel,dépense,17501.85,0.0
+2025-07-03,COMPTE_6210,Charges sociales CNSS,dépense,95846.14,0.0
+2025-07-04,COMPTE_6185,Maintenance équipements,dépense,23667.77,0.0
+2025-07-04,COMPTE_6011,Achats matières premières,dépense,105354.12,0.0
+2025-07-05,COMPTE_6141,Loyers,dépense,44414.65,0.0
+2025-07-05,COMPTE_6176,Honoraires consultants,dépense,36417.6,0.0
+2025-07-06,COMPTE_6161,Assurances,dépense,15323.5,0.0
+2025-07-09,COMPTE_6174,Téléphone et internet,dépense,10776.69,0.0
+2025-07-12,COMPTE_6165,Electricité et eau,dépense,32333.17,0.0
+2025-07-12,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,9123.7
+2025-07-14,COMPTE_6200,Salaires,dépense,351610.18,0.0
+2025-07-16,COMPTE_7120,Subventions reçues,produit,0.0,30005.71
+2025-07-19,COMPTE_7111,Chiffre d affaires,produit,0.0,805343.2
+2025-07-26,COMPTE_6171,Transport et livraisons,dépense,20951.61,0.0
+2025-07-28,COMPTE_6178,Fournitures de bureau,dépense,7704.26,0.0
+2025-08-04,COMPTE_6171,Transport et livraisons,dépense,20606.99,0.0
+2025-08-05,COMPTE_6190,Formation du personnel,dépense,14697.26,0.0
+2025-08-08,COMPTE_7120,Subventions reçues,produit,0.0,28470.54
+2025-08-08,COMPTE_6178,Fournitures de bureau,dépense,7480.05,0.0
+2025-08-12,COMPTE_6185,Maintenance équipements,dépense,20675.78,0.0
+2025-08-12,COMPTE_6141,Loyers,dépense,49942.42,0.0
+2025-08-14,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,8238.69
+2025-08-17,COMPTE_6174,Téléphone et internet,dépense,8494.49,0.0
+2025-08-19,COMPTE_6165,Electricité et eau,dépense,26834.87,0.0
+2025-08-24,COMPTE_7111,Chiffre d affaires,produit,0.0,917334.39
+2025-08-25,COMPTE_6161,Assurances,dépense,12201.82,0.0
+2025-08-26,COMPTE_6210,Charges sociales CNSS,dépense,83334.5,0.0
+2025-08-28,COMPTE_6011,Achats matières premières,dépense,80146.1,0.0
+2025-08-28,COMPTE_6200,Salaires,dépense,314628.11,0.0
+2025-08-28,COMPTE_6176,Honoraires consultants,dépense,32397.34,0.0
+2025-09-01,COMPTE_6200,Salaires,dépense,464238.19,0.0
+2025-09-02,COMPTE_6165,Electricité et eau,dépense,40008.48,0.0
+2025-09-02,COMPTE_6174,Téléphone et internet,dépense,12195.44,0.0
+2025-09-03,COMPTE_6141,Loyers,dépense,59850.31,0.0
+2025-09-03,COMPTE_6176,Honoraires consultants,dépense,56788.47,0.0
+2025-09-03,COMPTE_6190,Formation du personnel,dépense,18856.64,0.0
+2025-09-04,COMPTE_6161,Assurances,dépense,18233.08,0.0
+2025-09-08,COMPTE_7120,Subventions reçues,produit,0.0,38265.86
+2025-09-10,COMPTE_7111,Chiffre d affaires,produit,0.0,1091501.11
+2025-09-10,COMPTE_6210,Charges sociales CNSS,dépense,122094.21,0.0
+2025-09-11,COMPTE_6011,Achats matières premières,dépense,136522.94,0.0
+2025-09-19,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11300.37
+2025-09-26,COMPTE_6171,Transport et livraisons,dépense,23231.36,0.0
+2025-09-28,COMPTE_6178,Fournitures de bureau,dépense,9854.92,0.0
+2025-09-28,COMPTE_6185,Maintenance équipements,dépense,29364.29,0.0
+2025-10-01,COMPTE_6185,Maintenance équipements,dépense,37364.9,0.0
+2025-10-01,COMPTE_6178,Fournitures de bureau,dépense,9813.52,0.0
+2025-10-02,COMPTE_7120,Subventions reçues,produit,0.0,36500.33
+2025-10-05,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,13664.68
+2025-10-05,COMPTE_6165,Electricité et eau,dépense,45607.32,0.0
+2025-10-07,COMPTE_6210,Charges sociales CNSS,dépense,125455.36,0.0
+2025-10-08,COMPTE_7111,Chiffre d affaires,produit,0.0,1132035.56
+2025-10-13,COMPTE_6190,Formation du personnel,dépense,22570.9,0.0
+2025-10-14,COMPTE_6171,Transport et livraisons,dépense,22940.32,0.0
+2025-10-18,COMPTE_6174,Téléphone et internet,dépense,10899.81,0.0
+2025-10-24,COMPTE_6141,Loyers,dépense,72891.79,0.0
+2025-10-24,COMPTE_6200,Salaires,dépense,528842.84,0.0
+2025-10-25,COMPTE_6011,Achats matières premières,dépense,145160.43,0.0
+2025-10-25,COMPTE_6161,Assurances,dépense,20946.49,0.0
+2025-10-27,COMPTE_6176,Honoraires consultants,dépense,49947.62,0.0
+2025-11-02,COMPTE_6185,Maintenance équipements,dépense,34434.24,0.0
+2025-11-03,COMPTE_6178,Fournitures de bureau,dépense,10350.34,0.0
+2025-11-03,COMPTE_6011,Achats matières premières,dépense,137692.92,0.0
+2025-11-04,COMPTE_6174,Téléphone et internet,dépense,11334.89,0.0
+2025-11-05,COMPTE_6190,Formation du personnel,dépense,20908.86,0.0
+2025-11-08,COMPTE_6141,Loyers,dépense,59165.13,0.0
+2025-11-08,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,12012.9
+2025-11-09,COMPTE_6200,Salaires,dépense,448932.87,0.0
+2025-11-11,COMPTE_7120,Subventions reçues,produit,0.0,40768.67
+2025-11-12,COMPTE_6165,Electricité et eau,dépense,41537.17,0.0
+2025-11-17,COMPTE_6161,Assurances,dépense,21309.31,0.0
+2025-11-21,COMPTE_6176,Honoraires consultants,dépense,53398.81,0.0
+2025-11-24,COMPTE_6171,Transport et livraisons,dépense,27075.91,0.0
+2025-11-26,COMPTE_6210,Charges sociales CNSS,dépense,149836.26,0.0
+2025-11-27,COMPTE_7111,Chiffre d affaires,produit,0.0,1105712.74
+2025-12-04,COMPTE_6185,Maintenance équipements,dépense,33372.85,0.0
+2025-12-05,COMPTE_6161,Assurances,dépense,20918.41,0.0
+2025-12-07,COMPTE_6011,Achats matières premières,dépense,121020.19,0.0
+2025-12-08,COMPTE_7300,Intérêts bancaires reçus,produit,0.0,11454.86
+2025-12-12,COMPTE_6174,Téléphone et internet,dépense,12293.66,0.0
+2025-12-14,COMPTE_6171,Transport et livraisons,dépense,29076.85,0.0
+2025-12-15,COMPTE_6178,Fournitures de bureau,dépense,9972.44,0.0
+2025-12-15,COMPTE_6165,Electricité et eau,dépense,40290.04,0.0
+2025-12-20,COMPTE_6210,Charges sociales CNSS,dépense,154167.89,0.0
+2025-12-25,COMPTE_6141,Loyers,dépense,65422.82,0.0
+2025-12-26,COMPTE_6190,Formation du personnel,dépense,20040.58,0.0
+2025-12-27,COMPTE_6200,Salaires,dépense,551389.58,0.0
+2025-12-27,COMPTE_7111,Chiffre d affaires,produit,0.0,1055209.11
